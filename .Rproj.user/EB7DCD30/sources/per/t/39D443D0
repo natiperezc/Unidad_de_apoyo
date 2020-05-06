@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588379188662.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1445397956",
+    "id" : "39D443D0",
+    "lastKnownWriteTime" : 1588379255,
+    "last_content_update" : 1588379255664,
+    "path" : "~/web_unidad_apoyo_estadistico/Sitio_web/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
