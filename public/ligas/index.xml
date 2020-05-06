@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ligas on Unidad de Apoyo Estadístico</title>
-    <link>/ligas/</link>
+    <link>https://academia-hugo.netlify.com/ligas/</link>
     <description>Recent content in Ligas on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/ligas/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://academia-hugo.netlify.com/ligas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Escuela de Métodos</title>
-      <link>/ligas/escuela-de-metodos/</link>
+      <link>https://academia-hugo.netlify.com/ligas/escuela-de-metodos/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ligas/escuela-de-metodos/</guid>
+      <guid>https://academia-hugo.netlify.com/ligas/escuela-de-metodos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Francisco Mora</title>
-      <link>/ligas/francisco/</link>
+      <link>https://academia-hugo.netlify.com/ligas/francisco/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ligas/francisco/</guid>
+      <guid>https://academia-hugo.netlify.com/ligas/francisco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IIES</title>
-      <link>/ligas/iies/</link>
+      <link>https://academia-hugo.netlify.com/ligas/iies/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ligas/iies/</guid>
+      <guid>https://academia-hugo.netlify.com/ligas/iies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nathalia Pérez</title>
-      <link>/ligas/nathalia/</link>
+      <link>https://academia-hugo.netlify.com/ligas/nathalia/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ligas/nathalia/</guid>
+      <guid>https://academia-hugo.netlify.com/ligas/nathalia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/ligas/r/</link>
+      <link>https://academia-hugo.netlify.com/ligas/r/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ligas/r/</guid>
+      <guid>https://academia-hugo.netlify.com/ligas/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Studio</title>
-      <link>/ligas/rstudio/</link>
+      <link>https://academia-hugo.netlify.com/ligas/rstudio/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ligas/rstudio/</guid>
+      <guid>https://academia-hugo.netlify.com/ligas/rstudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Viernes de código</title>
-      <link>/ligas/viernes-de-codigo/</link>
+      <link>https://academia-hugo.netlify.com/ligas/viernes-de-codigo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ligas/viernes-de-codigo/</guid>
+      <guid>https://academia-hugo.netlify.com/ligas/viernes-de-codigo/</guid>
       <description></description>
     </item>
     

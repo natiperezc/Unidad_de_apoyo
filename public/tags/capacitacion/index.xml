@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>capacitacion on Unidad de Apoyo Estadístico</title>
-    <link>/tags/capacitacion/</link>
+    <link>https://academia-hugo.netlify.com/tags/capacitacion/</link>
     <description>Recent content in capacitacion on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/capacitacion/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://academia-hugo.netlify.com/tags/capacitacion/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Capacitación Permanente</title>
-      <link>/ejes/capacitacion/</link>
+      <link>https://academia-hugo.netlify.com/ejes/capacitacion/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ejes/capacitacion/</guid>
+      <guid>https://academia-hugo.netlify.com/ejes/capacitacion/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Cursos básicos (Diseño de experimentos, Manejo de bases de datos, Introducción al R, Introducción al SIG)&lt;/p&gt;

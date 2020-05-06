@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>apoyo on Unidad de Apoyo Estadístico</title>
-    <link>/tags/apoyo/</link>
+    <link>https://academia-hugo.netlify.com/tags/apoyo/</link>
     <description>Recent content in apoyo on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/apoyo/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://academia-hugo.netlify.com/tags/apoyo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Servicios de apoyo</title>
-      <link>/ejes/apoyo/</link>
+      <link>https://academia-hugo.netlify.com/ejes/apoyo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ejes/apoyo/</guid>
+      <guid>https://academia-hugo.netlify.com/ejes/apoyo/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Prestación de servicios de diseño experimental, análisis y modelación&lt;/p&gt;

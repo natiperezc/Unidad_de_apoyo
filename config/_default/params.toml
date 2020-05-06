@@ -55,11 +55,11 @@ phone = "443-3222777"
 address = "Antigua Carretera a Pátzcuaro No.8701, Col. Ex Hacienda de Sán José de la Huerta, C.P. 58190, Morelia, Michoacán, México"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """Lunes 08:00 a 13:00<br>
+                  Viernes 08:00 a 13:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -86,7 +86,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
+map = 0
 map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 latitude = "37.4275"
 longitude = "-122.1697"

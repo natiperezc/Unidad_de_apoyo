@@ -2,94 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unidad de Apoyo Estadístico</title>
-    <link>/</link>
+    <link>https://academia-hugo.netlify.com/</link>
     <description>Recent content on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://academia-hugo.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://academia-hugo.netlify.com/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recursos</title>
-      <link>/recursos/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/recursos/</guid>
+      <guid>https://academia-hugo.netlify.com/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>publicaciones</title>
-      <link>/productos/</link>
+      <link>https://academia-hugo.netlify.com/productos/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/productos/</guid>
+      <guid>https://academia-hugo.netlify.com/productos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>/integrantes/</link>
+      <link>https://academia-hugo.netlify.com/integrantes/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/integrantes/</guid>
+      <guid>https://academia-hugo.netlify.com/integrantes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>https://academia-hugo.netlify.com/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/slides/</guid>
+      <guid>https://academia-hugo.netlify.com/slides/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Cursos</title>
-      <link>/cursos/</link>
+      <link>https://academia-hugo.netlify.com/cursos/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/cursos/</guid>
+      <guid>https://academia-hugo.netlify.com/cursos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ejes</title>
-      <link>/ejes/</link>
+      <link>https://academia-hugo.netlify.com/ejes/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ejes/</guid>
+      <guid>https://academia-hugo.netlify.com/ejes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ligas</title>
-      <link>/ligas/</link>
+      <link>https://academia-hugo.netlify.com/ligas/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ligas/</guid>
+      <guid>https://academia-hugo.netlify.com/ligas/</guid>
       <description></description>
     </item>
     

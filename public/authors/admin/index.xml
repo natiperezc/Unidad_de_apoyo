@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unidad de Apoyo Estadístico</title>
-    <link>/authors/admin/</link>
+    <link>https://academia-hugo.netlify.com/authors/admin/</link>
     <description>Recent content on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://academia-hugo.netlify.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Otros</title>
-      <link>/productos/otros/</link>
+      <link>https://academia-hugo.netlify.com/productos/otros/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/productos/otros/</guid>
+      <guid>https://academia-hugo.netlify.com/productos/otros/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Francisco Mora</title>
-      <link>/integrantes/francisco_mora/</link>
+      <link>https://academia-hugo.netlify.com/integrantes/francisco_mora/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/integrantes/francisco_mora/</guid>
+      <guid>https://academia-hugo.netlify.com/integrantes/francisco_mora/</guid>
       <description>&lt;p&gt;Me interesa el estudio de la diversidad biológica y su relación con las funciones que desarrollan los bosques tropicales. Disfruto en particular identificar plantas en campo, así como procesar y analizar información empleando modelos estadísticos. Es esta última actividad la que constituye el centro de mi trabajo en el IIES. Cuento con experiencia docente en Estadística para Ciencias Ambientales y Biológicas al nivel licenciatura y posgrado. Mi principal herramienta de trabajo es el lenguaje R. He participado en el desarrollo de proyectos de investigación y de docencia asociados al IIES y a la Escuela Nacional de Estudios Superiores (UNAM, campus Morelia).&lt;/p&gt;
 &lt;h3 id=&#34;áreas-de-especialización&#34;&gt;Áreas de especialización&lt;/h3&gt;
 &lt;ol&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Nathalia Pérez</title>
-      <link>/integrantes/nathalia/</link>
+      <link>https://academia-hugo.netlify.com/integrantes/nathalia/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/integrantes/nathalia/</guid>
+      <guid>https://academia-hugo.netlify.com/integrantes/nathalia/</guid>
       <description>&lt;p&gt;Maestra en ciencias del Instituto de investigaciones en ecosistemas y sustentabilidad (IIES).&lt;/p&gt;
 &lt;h1 id=&#34;apoyo-actividades-de-docencia-manejo-de-datos-y-disfusión-de-la-información-en-la-unidad-de-apoyo-en-estadística-y-manejo-de-datos-de-iies-por-medio-de-su-página-web&#34;&gt;Apoyo actividades de docencia, manejo de datos y disfusión de la información en la unidad de apoyo en estadística y manejo de datos de IIES por medio de su página web.&lt;/h1&gt;
 </description>
@@ -57,10 +57,10 @@
     
     <item>
       <title>Artículos</title>
-      <link>/productos/articulos/</link>
+      <link>https://academia-hugo.netlify.com/productos/articulos/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/productos/articulos/</guid>
+      <guid>https://academia-hugo.netlify.com/productos/articulos/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>Tesis</title>
-      <link>/productos/tesis/</link>
+      <link>https://academia-hugo.netlify.com/productos/tesis/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/productos/tesis/</guid>
+      <guid>https://academia-hugo.netlify.com/productos/tesis/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;

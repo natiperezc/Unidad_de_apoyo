@@ -26,7 +26,7 @@
 
 [[main]]
   name = "Recursos"
-  url = "recursos/"
+  url = "#recursos"
   weight = 50
 
 [[main]]
