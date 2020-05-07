@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cursos on Unidad de Apoyo Estadístico</title>
-    <link>https://academia-hugo.netlify.com/cursos/</link>
+    <link>/cursos/</link>
     <description>Recent content in Cursos on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://academia-hugo.netlify.com/cursos/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/cursos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Escuela de Métodos</title>
-      <link>https://academia-hugo.netlify.com/cursos/escuela-de-metodos/</link>
+      <link>/cursos/escuela-de-metodos/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/cursos/escuela-de-metodos/</guid>
+      <guid>/cursos/escuela-de-metodos/</guid>
       <description>&lt;p&gt;El objetivo de la escuela de métodos es proveer métodos y técnicas actualizadas para el análisis cuantitativo de datos y el análisis cualitativo de la información.&lt;/p&gt;
 &lt;p&gt;Para ello se imparten talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. En ellos se hará énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
 Producción de materiales didácticos sobre los métodos presentados en los talleres, que faciliten su implementación en docencia e investigación.&lt;/p&gt;
@@ -27,10 +27,10 @@ Producción de materiales didácticos sobre los métodos presentados en los tall
     
     <item>
       <title>Licenciatura</title>
-      <link>https://academia-hugo.netlify.com/cursos/licenciatura/</link>
+      <link>/cursos/licenciatura/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/cursos/licenciatura/</guid>
+      <guid>/cursos/licenciatura/</guid>
       <description>&lt;p&gt;Impartimos algunas asignaturas en las licenciaturas de la &lt;em&gt;Escuela Nacional de Estudios Superiores&lt;/em&gt; - Unidad Morelia&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../ambientales.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -45,10 +45,10 @@ Producción de materiales didácticos sobre los métodos presentados en los tall
     
     <item>
       <title>Posgrado</title>
-      <link>https://academia-hugo.netlify.com/cursos/posgrado/</link>
+      <link>/cursos/posgrado/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/cursos/posgrado/</guid>
+      <guid>/cursos/posgrado/</guid>
       <description>&lt;p&gt;La unidad participa en asignaturas al interior del Posgrado de Ciencias Biológicas y Posgrado en Ciencias de la Sostenibilidad:&lt;/p&gt;
 &lt;h1 id=&#34;1-modelación-estadística&#34;&gt;1. Modelación Estadística&lt;/h1&gt;
 &lt;h1 id=&#34;2-introducción-al-diseño-experimental-y-al-análisis-de-datos&#34;&gt;2. Introducción al Diseño Experimental y al Análisis de Datos&lt;/h1&gt;

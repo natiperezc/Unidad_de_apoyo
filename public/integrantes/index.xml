@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Unidad de Apoyo Estadístico</title>
-    <link>https://academia-hugo.netlify.com/integrantes/</link>
+    <link>/integrantes/</link>
     <description>Recent content in Posts on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://academia-hugo.netlify.com/integrantes/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/integrantes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Francisco Mora</title>
-      <link>https://academia-hugo.netlify.com/integrantes/francisco_mora/</link>
+      <link>/integrantes/francisco_mora/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/integrantes/francisco_mora/</guid>
+      <guid>/integrantes/francisco_mora/</guid>
       <description>&lt;p&gt;Me interesa el estudio de la diversidad biológica y su relación con las funciones que desarrollan los bosques tropicales. Disfruto en particular identificar plantas en campo, así como procesar y analizar información empleando modelos estadísticos. Es esta última actividad la que constituye el centro de mi trabajo en el IIES. Cuento con experiencia docente en Estadística para Ciencias Ambientales y Biológicas al nivel licenciatura y posgrado. Mi principal herramienta de trabajo es el lenguaje R. He participado en el desarrollo de proyectos de investigación y de docencia asociados al IIES y a la Escuela Nacional de Estudios Superiores (UNAM, campus Morelia).&lt;/p&gt;
 &lt;h3 id=&#34;áreas-de-especialización&#34;&gt;Áreas de especialización&lt;/h3&gt;
 &lt;ol&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>Nathalia Pérez</title>
-      <link>https://academia-hugo.netlify.com/integrantes/nathalia/</link>
+      <link>/integrantes/nathalia/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/integrantes/nathalia/</guid>
+      <guid>/integrantes/nathalia/</guid>
       <description>&lt;p&gt;Maestra en ciencias del Instituto de investigaciones en ecosistemas y sustentabilidad (IIES).&lt;/p&gt;
 &lt;h1 id=&#34;apoyo-actividades-de-docencia-manejo-de-datos-y-disfusión-de-la-información-en-la-unidad-de-apoyo-en-estadística-y-manejo-de-datos-de-iies-por-medio-de-su-página-web&#34;&gt;Apoyo actividades de docencia, manejo de datos y disfusión de la información en la unidad de apoyo en estadística y manejo de datos de IIES por medio de su página web.&lt;/h1&gt;
 </description>

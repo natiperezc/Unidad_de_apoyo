@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Unidad de Apoyo Estadístico</title>
-    <link>https://academia-hugo.netlify.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://academia-hugo.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Source Themes</title>
-      <link>https://academia-hugo.netlify.com/tags/source-themes/</link>
+      <link>/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/source-themes/</guid>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apoyo</title>
-      <link>https://academia-hugo.netlify.com/tags/apoyo/</link>
+      <link>/tags/apoyo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/apoyo/</guid>
+      <guid>/tags/apoyo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bases</title>
-      <link>https://academia-hugo.netlify.com/tags/bases/</link>
+      <link>/tags/bases/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/bases/</guid>
+      <guid>/tags/bases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>capacitacion</title>
-      <link>https://academia-hugo.netlify.com/tags/capacitacion/</link>
+      <link>/tags/capacitacion/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/capacitacion/</guid>
+      <guid>/tags/capacitacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Escuela de Métodos</title>
-      <link>https://academia-hugo.netlify.com/tags/escuela-de-metodos/</link>
+      <link>/tags/escuela-de-metodos/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/escuela-de-metodos/</guid>
+      <guid>/tags/escuela-de-metodos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Francisco</title>
-      <link>https://academia-hugo.netlify.com/tags/francisco/</link>
+      <link>/tags/francisco/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/francisco/</guid>
+      <guid>/tags/francisco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iies</title>
-      <link>https://academia-hugo.netlify.com/tags/iies/</link>
+      <link>/tags/iies/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/iies/</guid>
+      <guid>/tags/iies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Licenciatura</title>
-      <link>https://academia-hugo.netlify.com/tags/licenciatura/</link>
+      <link>/tags/licenciatura/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/licenciatura/</guid>
+      <guid>/tags/licenciatura/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nathalia</title>
-      <link>https://academia-hugo.netlify.com/tags/nathalia/</link>
+      <link>/tags/nathalia/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/nathalia/</guid>
+      <guid>/tags/nathalia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posgrado</title>
-      <link>https://academia-hugo.netlify.com/tags/posgrado/</link>
+      <link>/tags/posgrado/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/posgrado/</guid>
+      <guid>/tags/posgrado/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://academia-hugo.netlify.com/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rstudio</title>
-      <link>https://academia-hugo.netlify.com/tags/rstudio/</link>
+      <link>/tags/rstudio/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/rstudio/</guid>
+      <guid>/tags/rstudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>viernes de codigo</title>
-      <link>https://academia-hugo.netlify.com/tags/viernes-de-codigo/</link>
+      <link>/tags/viernes-de-codigo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/viernes-de-codigo/</guid>
+      <guid>/tags/viernes-de-codigo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>academia</title>
-      <link>https://academia-hugo.netlify.com/tags/academia/</link>
+      <link>/tags/academia/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/tags/academia/</guid>
+      <guid>/tags/academia/</guid>
       <description></description>
     </item>
     

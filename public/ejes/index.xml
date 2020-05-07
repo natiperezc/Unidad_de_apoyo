@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ejes on Unidad de Apoyo Estadístico</title>
-    <link>https://academia-hugo.netlify.com/ejes/</link>
+    <link>/ejes/</link>
     <description>Recent content in Ejes on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://academia-hugo.netlify.com/ejes/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/ejes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bases de Datos</title>
-      <link>https://academia-hugo.netlify.com/ejes/bases-de-datos/</link>
+      <link>/ejes/bases-de-datos/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/ejes/bases-de-datos/</guid>
+      <guid>/ejes/bases-de-datos/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Capacitación para el manejo de grandes bases de datos&lt;/p&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Capacitación Permanente</title>
-      <link>https://academia-hugo.netlify.com/ejes/capacitacion/</link>
+      <link>/ejes/capacitacion/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/ejes/capacitacion/</guid>
+      <guid>/ejes/capacitacion/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Cursos básicos (Diseño de experimentos, Manejo de bases de datos, Introducción al R, Introducción al SIG)&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>Servicios de apoyo</title>
-      <link>https://academia-hugo.netlify.com/ejes/apoyo/</link>
+      <link>/ejes/apoyo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/ejes/apoyo/</guid>
+      <guid>/ejes/apoyo/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Prestación de servicios de diseño experimental, análisis y modelación&lt;/p&gt;

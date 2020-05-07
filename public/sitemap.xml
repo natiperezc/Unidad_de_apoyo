@@ -3,267 +3,272 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://academia-hugo.netlify.com/talk/coding/</loc>
+    <loc>/talk/coding/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/talk/qualitative/</loc>
+    <loc>/talk/qualitative/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/talk/synthesizing/</loc>
+    <loc>/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://academia-hugo.netlify.com/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication_types/3/</loc>
+    <loc>/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/productos/otros/</loc>
+    <loc>/productos/otros/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/productos/</loc>
+    <loc>/productos/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/source-themes/</loc>
+    <loc>/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/integrantes/francisco_mora/</loc>
+    <loc>/integrantes/francisco_mora/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/integrantes/</loc>
+    <loc>/integrantes/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/apoyo/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/apoyo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/bases/</loc>
+    <loc>/tags/bases/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ejes/bases-de-datos/</loc>
+    <loc>/ejes/bases-de-datos/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/capacitacion/</loc>
+    <loc>/tags/capacitacion/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ejes/capacitacion/</loc>
+    <loc>/ejes/capacitacion/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/cursos/</loc>
+    <loc>/cursos/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ejes/</loc>
+    <loc>/ejes/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/escuela-de-metodos/</loc>
+    <loc>/tags/escuela-de-metodos/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/cursos/escuela-de-metodos/</loc>
+    <loc>/cursos/escuela-de-metodos/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ligas/escuela-de-metodos/</loc>
+    <loc>/ligas/escuela-de-metodos/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/francisco/</loc>
+    <loc>/tags/francisco/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ligas/francisco/</loc>
+    <loc>/ligas/francisco/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ligas/iies/</loc>
+    <loc>/ligas/iies/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/iies/</loc>
+    <loc>/tags/iies/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/licenciatura/</loc>
+    <loc>/tags/licenciatura/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/cursos/licenciatura/</loc>
+    <loc>/cursos/licenciatura/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ligas/</loc>
+    <loc>/ligas/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/nathalia/</loc>
+    <loc>/tags/nathalia/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ligas/nathalia/</loc>
+    <loc>/ligas/nathalia/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/posgrado/</loc>
+    <loc>/tags/posgrado/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/cursos/posgrado/</loc>
+    <loc>/cursos/posgrado/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ligas/r/</loc>
+    <loc>/ligas/r/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ligas/rstudio/</loc>
+    <loc>/ligas/rstudio/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/rstudio/</loc>
+    <loc>/tags/rstudio/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ejes/apoyo/</loc>
+    <loc>/ejes/apoyo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/viernes-de-codigo/</loc>
+    <loc>/tags/viernes-de-codigo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/ligas/viernes-de-codigo/</loc>
+    <loc>/ligas/viernes-de-codigo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/academia/</loc>
+    <loc>/tags/academia/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/integrantes/nathalia/</loc>
+    <loc>/integrantes/nathalia/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication_types/2/</loc>
+    <loc>/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/productos/articulos/</loc>
+    <loc>/productos/articulos/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/authors/robert-ford/</loc>
+    <loc>/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication_types/1/</loc>
+    <loc>/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/productos/tesis/</loc>
+    <loc>/productos/tesis/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>

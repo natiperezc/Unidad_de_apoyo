@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francisco on Unidad de Apoyo Estadístico</title>
-    <link>https://academia-hugo.netlify.com/tags/francisco/</link>
+    <link>/tags/francisco/</link>
     <description>Recent content in Francisco on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://academia-hugo.netlify.com/tags/francisco/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/francisco/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Francisco Mora</title>
-      <link>https://academia-hugo.netlify.com/ligas/francisco/</link>
+      <link>/ligas/francisco/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/ligas/francisco/</guid>
+      <guid>/ligas/francisco/</guid>
       <description></description>
     </item>
     
