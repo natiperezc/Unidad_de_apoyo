@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Unidad de Apoyo Estadístico"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "user-3.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.

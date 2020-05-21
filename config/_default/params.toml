@@ -11,6 +11,10 @@ day_night = false
 #   Choose from `default`, `classic`, or `playfair`.
 font = "classic"
 
+# Choose a font size.
+# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+font_size = "M"
+
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
@@ -22,7 +26,8 @@ sharing_image = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+logo = "logo.png"
+url = "https://www.iies.unam.mx/"
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -51,8 +56,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "fmora@iies.unam.mx"
-phone = "443-3222777"
-address = "Antigua Carretera a Pátzcuaro No.8701, Col. Ex Hacienda de Sán José de la Huerta, C.P. 58190, Morelia, Michoacán, México"
+phone = "443-3222777, Ext: "
+address = "Instituto de Investigaciones en Ecosistemas y Sustentabilidad, UNAM. Antigua Carretera a Pátzcuaro No.8701, Col. Ex Hacienda de Sán José de la Huerta, C.P. 58190, Morelia, Michoacán, México"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Lunes 08:00 a 13:00<br>
@@ -86,11 +91,11 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
-map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-latitude = "37.4275"
-longitude = "-122.1697"
-zoom = 15
+map = 2
+map_api_key = ""
+latitude = "19.648264"
+longitude = "-101.228540"
+zoom = 20
 
 ############################
 ## Plugins                ##
@@ -151,7 +156,7 @@ sharing = true
   #   0: No search engine
   #   1: academia (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 0
+  engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

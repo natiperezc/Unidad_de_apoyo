@@ -10,34 +10,39 @@
   weight = 10
 
 [[main]]
-  name = "Integrantes"
-  url = "#integrantes"
+  name = "Ejes"
+  url = "#ejes"
   weight = 20
+
+[[main]]
+  name = "Integrantes"
+  url = "#people"
+  weight = 30
 
 [[main]]
   name = "Cursos"
   url = "#cursos"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Productos"
   url = "#productos"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Recursos"
   url = "#recursos"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Ligas"
   url = "#ligas"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Contacto"
   url = "#contacto"
-  weight = 70
+  weight = 80
 
 
 # Link to a PDF of your resume/CV from the menu.

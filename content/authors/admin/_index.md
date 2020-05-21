@@ -19,15 +19,15 @@ display_education: false
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
 email: ""
-interests:
-- Manejo y análisis de datos
-- Análisis estadístico
-- Lenguaje R
+#interests:
+#- Manejo y análisis de datos
+#- Análisis estadístico
+#- Lenguaje R
 name: Unidad de apoyo en estadística, modelación y manejo de datos
 organizations:
 - name: Instituto de investigación en Ecosistemas y sustentabilidad
   url: ""
-role: IIES
+role: 
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,8 +43,8 @@ social:
   link: https://github.com/gcushen
 superuser: true
 user_groups:
-- Researchers
-- Visitors
+#- Researchers
+#- Visitors
 ---
 
 ## Nuestros objetivos son

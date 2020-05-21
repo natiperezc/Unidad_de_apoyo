@@ -21,47 +21,47 @@ subtitle = "Enlaces de interes"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "Todo"
-    tag = "*"
+  #[[content.filter_button]]
+  #  name = "Todo"
+  #  tag = "*"
   
-  [[content.filter_button]]
-    name = "Viernes de código"
-    tag = "viernes de codigo"
+  #[[content.filter_button]]
+  #  name = "Viernes de código"
+  #  tag = "viernes de codigo"
   
-  [[content.filter_button]]
-    name = "Escuela de Métodos"
-    tag = "escuela de metodos"
+  #[[content.filter_button]]
+  #  name = "Escuela de Métodos"
+  #  tag = "escuela de metodos"
   
-  [[content.filter_button]]
-    name = "IIES"
-    tag = "iies"
+  #[[content.filter_button]]
+  #  name = "IIES"
+  #  tag = "iies"
   
-  [[content.filter_button]]
-    name = "Francisco Mora"
-    tag = "Francisco"
+  #[[content.filter_button]]
+  #  name = "Francisco Mora"
+  #  tag = "Francisco"
 
- [[content.filter_button]]
-    name = "Nathalia Pérez"
-    tag = "Nathalia"
+ #[[content.filter_button]]
+  #  name = "Nathalia Pérez"
+  #  tag = "Nathalia"
 
- [[content.filter_button]]
-    name = "R Studio"
-    tag = "Rstudio"
+ #[[content.filter_button]]
+ #   name = "R Studio"
+ #   tag = "Rstudio"
 
- [[content.filter_button]]
-    name = "R"
-    tag = "R"
+ #[[content.filter_button]]
+ #   name = "R"
+ #   tag = "R"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

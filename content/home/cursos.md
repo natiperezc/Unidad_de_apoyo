@@ -21,21 +21,21 @@ subtitle = "Capacitación permanente"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "Todo"
-    tag = "*"
+  #[[content.filter_button]]
+  #  name = "Todo"
+  #  tag = "*"
   
-  [[content.filter_button]]
-    name = "Escuela de Métodos"
-    tag = "Escuela de Métodos"
+  #[[content.filter_button]]
+  #  name = "Escuela de Métodos"
+  #  tag = "Escuela de Métodos"
   
-  [[content.filter_button]]
-    name = "Posgrado"
-    tag = "Posgrado"
+  #[[content.filter_button]]
+  #  name = "Posgrado"
+  #  tag = "Posgrado"
   
-  [[content.filter_button]]
-    name = "Licenciatura"
-    tag = "Licenciatura"
+  #[[content.filter_button]]
+  #  name = "Licenciatura"
+  #  tag = "Licenciatura"
   
 #  [[content.filter_button]]
 #    name = "Robotics"

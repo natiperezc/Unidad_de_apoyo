@@ -6,24 +6,24 @@
     <description>Recent content in Tags on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>management</title>
+      <link>/tags/management/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apoyo</title>
       <link>/tags/apoyo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/apoyo/</guid>
       <description></description>
@@ -32,9 +32,63 @@
     <item>
       <title>bases</title>
       <link>/tags/bases/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/bases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Escuela de Métodos</title>
+      <link>/tags/escuela-de-metodos/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/escuela-de-metodos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Licenciatura</title>
+      <link>/tags/licenciatura/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/licenciatura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posgrado</title>
+      <link>/tags/posgrado/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/posgrado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>viernes de codigo</title>
+      <link>/tags/viernes-de-codigo/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/viernes-de-codigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agroecosystems</title>
+      <link>/tags/agroecosystems/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/agroecosystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plant growth</title>
+      <link>/tags/plant-growth/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/plant-growth/</guid>
       <description></description>
     </item>
     
@@ -44,15 +98,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/capacitacion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Escuela de Métodos</title>
-      <link>/tags/escuela-de-metodos/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/escuela-de-metodos/</guid>
       <description></description>
     </item>
     
@@ -75,29 +120,11 @@
     </item>
     
     <item>
-      <title>Licenciatura</title>
-      <link>/tags/licenciatura/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/licenciatura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nathalia</title>
       <link>/tags/nathalia/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/nathalia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posgrado</title>
-      <link>/tags/posgrado/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/posgrado/</guid>
       <description></description>
     </item>
     
@@ -120,20 +147,20 @@
     </item>
     
     <item>
-      <title>viernes de codigo</title>
-      <link>/tags/viernes-de-codigo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/viernes-de-codigo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>academia</title>
       <link>/tags/academia/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     

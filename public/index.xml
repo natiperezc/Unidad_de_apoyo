@@ -23,9 +23,36 @@
     <item>
       <title>publicaciones</title>
       <link>/productos/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/productos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cursos</title>
+      <link>/cursos/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cursos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ejes</title>
+      <link>/ejes/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ejes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ligas</title>
+      <link>/ligas/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ligas/</guid>
       <description></description>
     </item>
     
@@ -55,33 +82,6 @@
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Cursos</title>
-      <link>/cursos/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/cursos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ejes</title>
-      <link>/ejes/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/ejes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ligas</title>
-      <link>/ligas/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/ligas/</guid>
-      <description></description>
     </item>
     
   </channel>
