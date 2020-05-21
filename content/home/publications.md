@@ -4,15 +4,15 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
-title = "Productos"
-subtitle = "Publicaciones donde ha dado apoyo la unidad"
+title = "Productos - Tesis"
+subtitle = "Tesis publicadas donde ha dado apoyo la unidad"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publicaciones"
+  page_type = "productos"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -26,7 +26,7 @@ subtitle = "Publicaciones donde ha dado apoyo la unidad"
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "tesis"
     publication_type = ""
     exclude_featured = false
   
@@ -36,7 +36,7 @@ subtitle = "Publicaciones donde ha dado apoyo la unidad"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.

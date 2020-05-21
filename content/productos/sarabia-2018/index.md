@@ -25,6 +25,8 @@ summary: Main results showed that yeasts were present in all maize fields during
 tags:
 - Plant growth
 - Agroecosystems
+categories: 
+- articulos
 title: Plant growth promotion traits of rhizosphere yeasts and their response to soil characteristics and crop cycle in maize agroecosystems
 url_code: ""
 url_dataset: ""

@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>articulos</title>
+      <link>/categories/articulos/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/articulos/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

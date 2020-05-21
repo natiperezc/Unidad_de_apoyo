@@ -30,6 +30,18 @@
   weight = 50
 
 [[main]]
+  parent = "Productos"
+  name = "Artículos"
+  url = "#productos"
+  weight = 50
+
+[[main]]
+  parent = "Productos"
+  name = "Tesis"
+  url = "#publications"
+  weight = 50
+
+[[main]]
   name = "Recursos"
   url = "#recursos"
   weight = 60

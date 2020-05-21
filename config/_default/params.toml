@@ -26,7 +26,7 @@ sharing_image = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "logo.png"
+logo = "Logo-IIES.png"
 url = "https://www.iies.unam.mx/"
 
 # Enable global source code highlighting? true/false
@@ -56,7 +56,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "fmora@iies.unam.mx"
-phone = "443-3222777, Ext: "
+phone = "Morelia: 443-3222777, Ext. UNAM: 80762"
 address = "Instituto de Investigaciones en Ecosistemas y Sustentabilidad, UNAM. Antigua Carretera a Pátzcuaro No.8701, Col. Ex Hacienda de Sán José de la Huerta, C.P. 58190, Morelia, Michoacán, México"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -95,7 +95,7 @@ map = 2
 map_api_key = ""
 latitude = "19.648264"
 longitude = "-101.228540"
-zoom = 20
+zoom = 15
 
 ############################
 ## Plugins                ##

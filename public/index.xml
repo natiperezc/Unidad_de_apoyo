@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>publicaciones</title>
+      <title>Productos</title>
       <link>/productos/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
@@ -53,6 +53,15 @@
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/ligas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursos</title>
+      <link>/recursos/</link>
+      <pubDate>Fri, 10 Jan 2020 16:00:00 +0000</pubDate>
+      
+      <guid>/recursos/</guid>
       <description></description>
     </item>
     

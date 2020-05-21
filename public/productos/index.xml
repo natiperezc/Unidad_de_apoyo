@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>publicaciones on Unidad de Apoyo Estadístico</title>
+    <title>Productos on Unidad de Apoyo Estadístico</title>
     <link>/productos/</link>
-    <description>Recent content in publicaciones on Unidad de Apoyo Estadístico</description>
+    <description>Recent content in Productos on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
@@ -13,43 +13,31 @@
     
     <item>
       <title>Assessing the cascading effects of management and landscape on the arthropod guilds occurring in papaya plantations</title>
-      <link>/productos/articulos/flores-2020/</link>
+      <link>/productos/flores-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/productos/articulos/flores-2020/</guid>
+      <guid>/productos/flores-2020/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Plant growth promotion traits of rhizosphere yeasts and their response to soil characteristics and crop cycle in maize agroecosystems</title>
-      <link>/productos/articulos/sarabia-2018/</link>
+      <link>/productos/sarabia-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/productos/articulos/sarabia-2018/</guid>
+      <guid>/productos/sarabia-2018/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Horizontal seed dispersal by dung beetles reduced seed and seedling clumping, but did not increase short-term seedling establishment</title>
-      <link>/productos/articulos/urrea-galeano-2019/</link>
+      <link>/productos/urrea-galeano-2019/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/productos/articulos/urrea-galeano-2019/</guid>
+      <guid>/productos/urrea-galeano-2019/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tesis</title>
-      <link>/productos/tesis/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/productos/tesis/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+external_link: https://francisco-mora.netlify.app/
 image:
   caption: 
   focal_point: Smart

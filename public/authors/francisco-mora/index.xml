@@ -6,9 +6,19 @@
     <description>Recent content in Francisco Mora on Unidad de Apoyo Estadístico</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2020 16:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/francisco-mora/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ajuste de modelos lineales</title>
+      <link>/recursos/ajuste-modelos-lineales/</link>
+      <pubDate>Fri, 10 Jan 2020 16:00:00 +0000</pubDate>
+      
+      <guid>/recursos/ajuste-modelos-lineales/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -8,7 +8,7 @@ authors:
 - Ek del-Val 
 date: "2020-05-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.agee.2020.106836"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""
@@ -18,12 +18,14 @@ projects:
 publication: '*Agriculture, Ecosystems & Environment, 293*'
 publication_short: ""
 publication_types:
-- "1"
+- "2"
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary: El manejo intensivo tiene un impacto negativo en la produccion de papaya y sus enemigos naturales.
 tags:
 - management
+categories: 
+- articulos
 title: Assessing the cascading effects of management and landscape on the arthropod guilds occurring in papaya plantations
 url_code: ""
 url_dataset: ""
