@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Unidad de Apoyo Estadístico"
+title = "Unidad de Apoyo"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "user-3.jpg"
@@ -42,6 +42,6 @@ hero_media = "user-3.jpg"
 #  label = "Contact me"
 
 +++
-## Unidad de Apoyo en Estadística, Modelación y Manejo de Datos
+## Estadística, Modelación y Manejo de Datos
 
-Brinda apoyo a académicos y estudiantes del Instituto de Investigaciones en Ecosistemas y Sustentabilidad (IIES) en el análisis de datos y modelación estadística.
+Apoyo a comunidad IIES en el análisis de datos y modelación estadística.

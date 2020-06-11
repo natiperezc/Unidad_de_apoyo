@@ -23,7 +23,7 @@ email: ""
 #- Manejo y análisis de datos
 #- Análisis estadístico
 #- Lenguaje R
-name: Unidad de apoyo en estadística, modelación y manejo de datos
+name: Estadística, modelación y manejo de datos
 organizations:
 - name: Instituto de investigación en Ecosistemas y sustentabilidad
   url: ""

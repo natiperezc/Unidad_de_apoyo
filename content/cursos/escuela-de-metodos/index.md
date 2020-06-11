@@ -22,7 +22,8 @@ El objetivo de la escuela de métodos es proveer métodos y técnicas actualizad
 Para ello se imparten talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. En ellos se hará énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
 Producción de materiales didácticos sobre los métodos presentados en los talleres, que faciliten su implementación en docencia e investigación.
 
- ![](../escuela-ejemplo.jpg)
+
+![](/escuela-de-metodos/index_files/escuela-ejemplo.jpg)
 
  
  [<span style="color:blue">Visitanos en nuestro sitio web</span>](https://www.iies.unam.mx/EscuelaMetodos/)

@@ -4,6 +4,9 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
+  preview_only: true
+
+
 links:
 #- icon: twitter
 #  icon_pack: fab
@@ -12,14 +15,20 @@ links:
 # slides: example
 summary: Apoyo en diseño experimental, métodos y análisis.
 tags:
-- apoyo
+- Apoyo
 title: Apoyo estadístico
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 ---
 
-* Prestación de servicios de diseño experimental, análisis y modelación
+En la unidad brindamos apoyo en el:
 
-* Acompañamiento a formulación de métodos para programas de investigación
+  - Planteamiento del diseño experimental de proyectos de investigación
+  - Análisis de datos y modelación
+  - Visualización y presentación de resultados estadísticos
+  
+# ![](/apoyo-estadistico/index_files/apoyo.jpg)
+
+<img src="/post/apoyo-estadistico/apoyo.jpg" alt="final image" width="400"/>

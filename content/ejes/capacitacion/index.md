@@ -4,6 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Center
+  preview_only: true
 links:
 #- icon: twitter
 #  icon_pack: fab
@@ -22,6 +23,8 @@ url_video: ""
 
 # Cursos básicos
 ***
+
+![](/capacitacion/index_files/user-full-2.jpg)
 
 ## 1. Diseño experimental y modelado estadístico en ecología
 

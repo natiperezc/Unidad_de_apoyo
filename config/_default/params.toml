@@ -26,8 +26,8 @@ sharing_image = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "Logo-IIES.png"
-url = "https://www.iies.unam.mx/"
+logo = ""
+
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -95,7 +95,7 @@ map = 2
 map_api_key = ""
 latitude = "19.648264"
 longitude = "-101.228540"
-zoom = 15
+zoom = 17
 
 ############################
 ## Plugins                ##
