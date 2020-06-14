@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bases on Unidad de Apoyo</title>
+    <title>bases on Estadística, modelación y manejo de datos</title>
     <link>/tags/bases/</link>
-    <description>Recent content in bases on Unidad de Apoyo</description>
+    <description>Recent content in bases on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/bases/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,13 +13,13 @@
     <item>
       <title>Bases de Datos</title>
       <link>/ejes/bases-de-datos/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/bases-de-datos/</guid>
       <description>&lt;p&gt;Una de las herramientas más valiosas para el desarrollo de investigaciones o revisiones es contar con un sistema ordenado de datos, que simplifique la busqueda de información y la realización de análisis.
 Es por ello que la unidad brinda apoyo en el diseño y manejo de bases de datos.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Capacitación para la construcción y el manejo de grandes bases de datos&lt;/li&gt;
+&lt;li&gt;Capacitación para la construcción y el manejo de bases de datos&lt;/li&gt;
 &lt;li&gt;Desarrollo de metadatos&lt;/li&gt;
 &lt;/ul&gt;
 </description>

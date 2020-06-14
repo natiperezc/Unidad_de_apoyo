@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apoyo on Unidad de Apoyo</title>
+    <title>Apoyo on Estadística, modelación y manejo de datos</title>
     <link>/tags/apoyo/</link>
-    <description>Recent content in Apoyo on Unidad de Apoyo</description>
+    <description>Recent content in Apoyo on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/apoyo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +13,7 @@
     <item>
       <title>Apoyo estadístico</title>
       <link>/ejes/apoyo-estadistico/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/apoyo-estadistico/</guid>
       <description>&lt;p&gt;En la unidad brindamos apoyo en el:&lt;/p&gt;
@@ -23,7 +22,7 @@
 &lt;li&gt;Análisis de datos y modelación&lt;/li&gt;
 &lt;li&gt;Visualización y presentación de resultados estadísticos&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;apoyo-estadisticoindex_filesapoyojpg&#34;&gt;&lt;img src=&#34;/apoyo-estadistico/index_files/apoyo.jpg&#34; alt=&#34;&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;/post/apoyo-estadistico/apoyo2.jpg&#34; alt=&#34;intento1&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>

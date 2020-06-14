@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ejes on Unidad de Apoyo</title>
+    <title>Ejes on Estadística, modelación y manejo de datos</title>
     <link>/ejes/</link>
-    <description>Recent content in Ejes on Unidad de Apoyo</description>
+    <description>Recent content in Ejes on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/ejes/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +13,7 @@
     <item>
       <title>Apoyo estadístico</title>
       <link>/ejes/apoyo-estadistico/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/apoyo-estadistico/</guid>
       <description>&lt;p&gt;En la unidad brindamos apoyo en el:&lt;/p&gt;
@@ -23,7 +22,7 @@
 &lt;li&gt;Análisis de datos y modelación&lt;/li&gt;
 &lt;li&gt;Visualización y presentación de resultados estadísticos&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;apoyo-estadisticoindex_filesapoyojpg&#34;&gt;&lt;img src=&#34;/apoyo-estadistico/index_files/apoyo.jpg&#34; alt=&#34;&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;/post/apoyo-estadistico/apoyo2.jpg&#34; alt=&#34;intento1&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
@@ -31,13 +30,13 @@
     <item>
       <title>Bases de Datos</title>
       <link>/ejes/bases-de-datos/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/bases-de-datos/</guid>
       <description>&lt;p&gt;Una de las herramientas más valiosas para el desarrollo de investigaciones o revisiones es contar con un sistema ordenado de datos, que simplifique la busqueda de información y la realización de análisis.
 Es por ello que la unidad brinda apoyo en el diseño y manejo de bases de datos.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Capacitación para la construcción y el manejo de grandes bases de datos&lt;/li&gt;
+&lt;li&gt;Capacitación para la construcción y el manejo de bases de datos&lt;/li&gt;
 &lt;li&gt;Desarrollo de metadatos&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -46,38 +45,18 @@ Es por ello que la unidad brinda apoyo en el diseño y manejo de bases de datos.
     <item>
       <title>Capacitación Permanente</title>
       <link>/ejes/capacitacion/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/capacitacion/</guid>
       <description>&lt;h1 id=&#34;cursos-básicos&#34;&gt;Cursos básicos&lt;/h1&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;/capacitacion/index_files/user-full-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;1-diseño-experimental-y-modelado-estadístico-en-ecología&#34;&gt;1. Diseño experimental y modelado estadístico en ecología&lt;/h2&gt;
-&lt;p&gt;Introducir al estudiante en el universo de la modelación estadística fundamentada en el entendimiento de los diseños
-experimentales y de muestreo más comunes en el área de la ecología.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://pcbiol.posgrado.unam.mx/programas_cursos/2020-1/dise%C3%B1o_experimental_y_modelado_estadistico_en_ecologia.pdf&#34;&gt;&lt;!-- raw HTML omitted --&gt;Puedes consultar el programa del curso aquí&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;2-introducción-al-lenguaje-r&#34;&gt;2. Introducción al Lenguaje R&lt;/h2&gt;
-&lt;p&gt;El objetivo de este curso es que el alumno comprenda los fundamentos del lenguaje de programación “R” y los aplique en sus trabajos de investigación&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://pcbiol.posgrado.unam.mx/programas_cursos/2020-2/introduccion_al_lenguaje__r.pdf&#34;&gt;&lt;!-- raw HTML omitted --&gt;Puedes consultar el programa del curso aquí&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;3-métodos-multivariados&#34;&gt;3. Métodos multivariados&lt;/h2&gt;
-&lt;p&gt;El estudiante aprenderá las principales técnicas de análisis multivariado y desarrollará las capacidades
-para aplicarlos en casos de estudio&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://pcbiol.posgrado.unam.mx/programas_cursos/2018-2/introduccion_al_estudio_de_los_metodos_multivariados.pdf&#34;&gt;&lt;!-- raw HTML omitted --&gt;Puedes consultar el programa del curso aquí&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;4-estadística-en-ecología&#34;&gt;4. Estadística en Ecología&lt;/h2&gt;
-&lt;p&gt;Ofrecer las nociones de estadística necesarias para que el alumno sea capaz de: (1) comprender los análisis estadísticos
-presentados en artículos científicos, (2) plantear preguntas ecológicas relevantes en términos estadísticos, (3) elaborar
-diseños de muestreo y de experimentación en el área de la ecología, (4) enfrentarse a ?situaciones reales? que requieren
-el uso de herramientas estadísticas.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://pcbiol.posgrado.unam.mx/programas_cursos/2019-2/estadistica_en_ecologia.pdf&#34;&gt;&lt;!-- raw HTML omitted --&gt;Puedes consultar el programa del curso aquí&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;5-herramientas-analíticas-en-las-ciencias-de-la-sostenibilidad&#34;&gt;5. Herramientas analíticas en las ciencias de la sostenibilidad&lt;/h2&gt;
-&lt;p&gt;El alumno reconocerá las herramientas de análisis matemático que se utilizan en el planteamiento
-de estrategias sostenibles.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sostenibilidad.posgrado.unam.mx/media/cursos/2/herramientas_analiticas_en_las_ciencias_de_la_sostenibilidad.pdf&#34;&gt;&lt;!-- raw HTML omitted --&gt;Puedes consultar el programa del curso aquí&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/cursos&#34;&gt;Para ver la sección completa de cursos pique aquí&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;seminario-permanente-de-métodos-y-herramientas&#34;&gt;Seminario permanente de métodos y herramientas&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;escuela-de-métodos&#34;&gt;Escuela de Métodos&lt;/h2&gt;
 &lt;p&gt;Talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. Con énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.iies.unam.mx/EscuelaMetodos/&#34;&gt;&lt;!-- raw HTML omitted --&gt;Visitanos en nuestro sitio web&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;escuela-ejemplo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

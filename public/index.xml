@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unidad de Apoyo</title>
+    <title>Estadística, modelación y manejo de datos</title>
     <link>/</link>
-    <description>Recent content on Unidad de Apoyo</description>
+    <description>Recent content on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
@@ -39,29 +39,11 @@
     </item>
     
     <item>
-      <title>Ejes</title>
-      <link>/ejes/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/ejes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ligas</title>
       <link>/ligas/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/ligas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recursos</title>
-      <link>/recursos/</link>
-      <pubDate>Fri, 10 Jan 2020 16:00:00 +0000</pubDate>
-      
-      <guid>/recursos/</guid>
       <description></description>
     </item>
     
@@ -91,6 +73,24 @@
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Ejes</title>
+      <link>/ejes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ejes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursos</title>
+      <link>/recursos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/recursos/</guid>
+      <description></description>
     </item>
     
   </channel>

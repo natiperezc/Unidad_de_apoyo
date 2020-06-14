@@ -1,13 +1,13 @@
 ---
-date: "2020-04-27T00:00:00Z"
+title: Apoyo Estadístico
+date: false
 external_link: ""
 image:
   caption: 
-  focal_point: Smart
+  focal_point: 
   preview_only: true
 
-
-links:
+#links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
@@ -21,6 +21,7 @@ title: Apoyo estadístico
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
+text-align: justify
 ---
 
 En la unidad brindamos apoyo en el:
@@ -28,7 +29,10 @@ En la unidad brindamos apoyo en el:
   - Planteamiento del diseño experimental de proyectos de investigación
   - Análisis de datos y modelación
   - Visualización y presentación de resultados estadísticos
-  
-# ![](/apoyo-estadistico/index_files/apoyo.jpg)
 
-<img src="/post/apoyo-estadistico/apoyo.jpg" alt="final image" width="400"/>
+[img1]: /static/post/apoyo-estadistico/apoyo.jpg "graficas" 
+
+  
+![intento1](/post/apoyo-estadistico/apoyo2.jpg)
+
+<img src="/post/apoyo-estadistico/apoyo.jpg" alt="final image" width="300"/>

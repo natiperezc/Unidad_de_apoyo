@@ -2,7 +2,7 @@
 authors:
 - admin
 avatar_image: user-full.png
-bio: Unidad de apoyo en estadística, modelación y manejo de datos.
+bio: Brindamos apoyo a la comunidad del IIES en el análisis de datos y la modelación estadística.
 btn:
 #- label: Download Resume
 #  url: https://sourcethemes.com/academic/docs/install/
@@ -23,9 +23,9 @@ email: ""
 #- Manejo y análisis de datos
 #- Análisis estadístico
 #- Lenguaje R
-name: Estadística, modelación y manejo de datos
+name: Unidad de apoyo en estadística, modelación y manejo de datos
 organizations:
-- name: Instituto de investigación en Ecosistemas y sustentabilidad
+- name: 
   url: ""
 role: 
 social:
@@ -49,7 +49,7 @@ user_groups:
 
 ## Nuestros objetivos son
 
-* Fortalecer la capacidad de la comunidad académica del IIES para el manejo, análisis y
+* Fortalecer la capacidad de la comunidad del IIES para el manejo, análisis y
   síntesis de información a través del lenguaje R.
 * Proveer la infraestructura y los recursos humanos para apoyar el manejo, análisis y síntesis
   de información.

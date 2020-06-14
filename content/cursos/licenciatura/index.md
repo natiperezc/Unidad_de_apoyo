@@ -13,14 +13,14 @@ image:
   focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only: false
+  preview_only: true
 # links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 # slides: example
-summary: Oferta de cursos en licenciatura
+summary: 
 tags:
 - Licenciatura
 
@@ -34,7 +34,7 @@ url_video: ""
 Participamos en algunas asignaturas en las licenciaturas de la *Escuela Nacional de Estudios Superiores* - Unidad Morelia
 
 
-![](../ecologia.jpg)
+ ![](../ecologia.jpg)
 
 # Licenciatura en Ecología
 
@@ -46,19 +46,12 @@ comunidades bióticas.
 [<span style="color:blue">Puedes consultar el programa del curso aquí</span>](http://www.ecologia.enesmorelia.unam.mx/pdf/66.pdf)
 
 
-![](../ambientales.jpg)
+ ![](../ambientales.jpg)
 
 # Licenciatura en Ciencias Ambientales
 
 ## 1. Modelación Estadística
 
-## 2. Ecología de Poblaciones y Comunidades
+## 2. Introducción a la Estadística
 
-## 3. Ejercicio de Integración
-
-## 4. Modelación Matemática
-
-## 5. Introducción a la Estadística
-
-## 6. Estadística II	
 

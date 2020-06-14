@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Productos - Artículos"
-subtitle = "Artiículos publicados donde ha dado apoyo la unidad"
+subtitle = "Artículos donde ha dado apoyo la unidad"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
