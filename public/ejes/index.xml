@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ejes on Estadística, modelación y manejo de datos</title>
+    <title>Ejes on Unidad de Apoyo</title>
     <link>/ejes/</link>
-    <description>Recent content in Ejes on Estadística, modelación y manejo de datos</description>
+    <description>Recent content in Ejes on Unidad de Apoyo</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
@@ -16,13 +16,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/apoyo-estadistico/</guid>
-      <description>&lt;p&gt;En la unidad brindamos apoyo en el:&lt;/p&gt;
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Uno de los tres ejes principales de la unidad de apoyo es proveer asesoria a estudiantes e investigadores del IIES en el planteamiento del diseño experiental de sus proyectos de investigación que cumplan con criterios estadísticos robustos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/apoyo-estadistico/apoyo2.jpg&#34; alt=&#34;intento1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Una vez obtenidos los datos, la unidad apoya en la exploración de datos, aplicación de análisis estadísticos y modelación con el fin de obtener resultados confiables que consideren supuestos estadísticos y análisis empleados actualmente en el estudio de sistemas ecológicos.&lt;/p&gt;
+&lt;p&gt;Adicionalmente, incorporando librerias y herramientas de vanguardia para la visualización y presentación de resultados, buscamos que la comunidad del IIES comunique los resultados de sus investigaciones de forma precisa e interesante.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;movie1.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;Planteamiento del diseño experimental de proyectos de investigación&lt;/li&gt;
 &lt;li&gt;Análisis de datos y modelación&lt;/li&gt;
 &lt;li&gt;Visualización y presentación de resultados estadísticos&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/post/apoyo-estadistico/apoyo2.jpg&#34; alt=&#34;intento1&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>

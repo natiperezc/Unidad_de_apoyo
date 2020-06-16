@@ -47,9 +47,8 @@ user_groups:
 #- Visitors
 ---
 
-## Nuestros objetivos son
+Brindamos apoyo a la comunidad del IIES en el análisis de datos y la modelación estadística para el desarrollo de sus investigaciones.
 
-* Fortalecer la capacidad de la comunidad del IIES para el manejo, análisis y
-  síntesis de información a través del lenguaje R.
-* Proveer la infraestructura y los recursos humanos para apoyar el manejo, análisis y síntesis
-  de información.
+Nuestro objetivo es:
+
+ + Fortalecer la capacidad para el manejo, análisis y síntesis de información a través del lenguaje **R**, y proveer la infraestructura y los recursos humanos necesarios para ello. 

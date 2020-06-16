@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Estadística, modelación y manejo de datos</title>
+    <title>Authors on Unidad de Apoyo</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Estadística, modelación y manejo de datos</description>
+    <description>Recent content in Authors on Unidad de Apoyo</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
@@ -17,12 +17,10 @@
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;h2 id=&#34;nuestros-objetivos-son&#34;&gt;Nuestros objetivos son&lt;/h2&gt;
+      <description>&lt;p&gt;Brindamos apoyo a la comunidad del IIES en el análisis de datos y la modelación estadística para el desarrollo de sus investigaciones.&lt;/p&gt;
+&lt;p&gt;Nuestro objetivo es:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Fortalecer la capacidad de la comunidad del IIES para el manejo, análisis y
-síntesis de información a través del lenguaje R.&lt;/li&gt;
-&lt;li&gt;Proveer la infraestructura y los recursos humanos para apoyar el manejo, análisis y síntesis
-de información.&lt;/li&gt;
+&lt;li&gt;Fortalecer la capacidad para el manejo, análisis y síntesis de información a través del lenguaje &lt;strong&gt;R&lt;/strong&gt;, y proveer la infraestructura y los recursos humanos necesarios para ello.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
