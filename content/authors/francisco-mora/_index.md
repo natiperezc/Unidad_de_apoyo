@@ -5,26 +5,25 @@ avatar_image: "avatar.jpg"
 # Username (this should match the folder name)
 authors:
 - Francisco Mora
-
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Francisco Mora
+role: Técnico académico unidad de apoyo en estadística, modelación y manejo de datos
 # Organizations/Affiliations
 organizations:
 - name: Instituto de Investigaciones en Ecosistemas y Sustentabilidad
   url: "https://www.iies.unam.mx/investigacion/perfiles-tecnicos/francisco-mora/"
-- name: Página personal
-  url: "https://francisco-mora.netlify.app/"
+#- name: Página personal
+#  url: "https://francisco-mora.netlify.app/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Me interesa la aplicación y el desarrollo de modelos estadísticos para el análisis de sistemas ecológicos, así como la enseñanza de métodos y herramientas para el análisis de datos.
 
 interests:
-#- Ecología de bosques tropicales
-#- Biodiversidad y funcionamiento de bosques tropicales secundarios
-#- Conservación biológica en paisajes manejados
+- Ecología de bosques tropicales
+- Biodiversidad y funcionamiento de bosques tropicales secundarios
+- Conservación biológica en paisajes manejados
 
 #education:
 #  courses:
@@ -61,6 +60,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-0390-0189
+- icon: academic
+  icon_pack: fab
+  link: https://francisco-mora.netlify.app/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,4 +79,5 @@ user_groups:
 #- Visitors
 ---
 
-Me interesa la aplicación y el desarrollo de modelos estadísticos para el análisis de sistemas ecológicos, particularmente de los bosques tropicales, así como la enseñanza de métodos y herramientas para el análisis de datos. En la actualidad me desempeño como Técnico Académico a cargo de la Unidad de Apoyo en Estadística, Modelación y Manejo de Datos del Instituto de Investigaciones en Ecosistemas y Sustentabilidad de la UNAM.
+Me interesa la aplicación y el desarrollo de modelos estadísticos para el análisis de sistemas ecológicos, particularmente de los bosques tropicales, así como la enseñanza de métodos y herramientas para el análisis de datos. 
+En la actualidad me desempeño como Técnico Académico a cargo de la [Unidad de Apoyo en Estadística, Modelación y Manejo de Datos](/inicio) del Instituto de Investigaciones en Ecosistemas y Sustentabilidad de la UNAM.

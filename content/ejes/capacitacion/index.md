@@ -26,16 +26,18 @@ Otro de los [tres ejes principales de la unidad de apoyo](/ejes) es capacitar a 
  y seminarios permanentes de métodos y herramientas.
 
 <center>
-![Apoyo a estudiantes](/post/capacitacion/user-full-3.jpg)
+
+![](user-full-3.jpg)
+
 </center>
 
-# 1. Asignaturas
+ 1. Asignaturas
 
-[(Para ver la sección completa de cursos pique aquí)](/cursos)
+Para ver la sección completa de cursos[(pique aquí)](/cursos)
 
-# 2. [Seminarios permanentes de la escuela de métodos](/cursos/escuela-de-metodos) 
+ 2. Seminarios permanentes de la Escuela de Métodos
 
-En este espacio desarrollamos talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. Con énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
+En [éste espacio](/cursos/escuela-de-metodos) desarrollamos talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. Con énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
 
  [<span style="color:blue">Visitanos en nuestro sitio web</span>](https://www.iies.unam.mx/EscuelaMetodos/)
 
