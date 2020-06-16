@@ -31,11 +31,11 @@ Otro de los [tres ejes principales de la unidad de apoyo](/ejes) es capacitar a 
 
 </center>
 
- 1. Asignaturas
+## 1. Asignaturas
 
-Para ver la sección completa de cursos[(pique aquí)](/cursos)
+Para ver la sección completa de cursos [(pique aquí)](/cursos)
 
- 2. Seminarios permanentes de la Escuela de Métodos
+## 2. Seminarios permanentes de la Escuela de Métodos
 
 En [éste espacio](/cursos/escuela-de-metodos) desarrollamos talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. Con énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
 
