@@ -23,20 +23,24 @@ text-align: justify
 ---
 
 Otro de los [tres ejes principales de la unidad de apoyo](/ejes) es capacitar a la comunidad en el manejo del lenguaje *R* y el análisis estadístico. Para cumplir con este objetivo participamos en diferentes asignaturas impartidas a nivel de licenciatura y posgrado 
-[(para ver la sección completa de cursos pique aquí)](/cursos) y en seminarios permanentes de métodos y herramientas. 
+ y seminarios permanentes de métodos y herramientas.
 
 <center>
 ![Apoyo a estudiantes](/post/capacitacion/user-full-3.jpg)
 </center>
 
-# 1. [Asignaturas](/cursos)
+# 1. Asignaturas
 
-# 2. Seminario permanente de métodos y herramientas 
+[(Para ver la sección completa de cursos pique aquí)](/cursos)
 
-[Escuela de Métodos](/cursos/escuela-de-metodos) 
+# 2. [Seminarios permanentes de la escuela de métodos](/cursos/escuela-de-metodos) 
 
-Talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. Con énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
+En este espacio desarrollamos talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. Con énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
 
  [<span style="color:blue">Visitanos en nuestro sitio web</span>](https://www.iies.unam.mx/EscuelaMetodos/)
 
+<center>
+
 ![](escuela-ejemplo.jpg)
+
+</center>
