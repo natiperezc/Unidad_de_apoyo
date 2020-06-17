@@ -150,6 +150,7 @@ sharing = true
   post_view = 2
   publication_view = 2
   talk_view = 2
+  people_view = 3
 
 # Search.
 [search]

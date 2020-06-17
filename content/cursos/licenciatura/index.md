@@ -28,30 +28,28 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+text-align: justify
 ---
 
+Participamos en asignaturas impartidas en las licenciaturas de ciencias ambientales y ecología de la *Escuela Nacional de Estudios Superiores - Unidad Morelia.*
 
-Participamos en algunas asignaturas en las licenciaturas de la *Escuela Nacional de Estudios Superiores* - Unidad Morelia
-
-
- ![](../ecologia.jpg)
-
-# Licenciatura en Ecología
-
-## 1. Ecología de Comunidades. Métodos y Herramientas
+## 1. Ecología de Comunidades: Métodos y Herramientas
 
 El objetivo general de esta asignatura es comprender las metodologías y las técnicas analíticas empleadas en el estudio de las
-comunidades bióticas.
+comunidades bióticas. Se imparte a alumnos de séptimo semestre que tienen interes en desarrollar análisis empleando lenguaje *R.
+
+ ![](ecologia.jpg)
 
 [<span style="color:blue">Puedes consultar el programa del curso aquí</span>](http://www.ecologia.enesmorelia.unam.mx/pdf/66.pdf)
 
+## 2. Modelación Estadística
 
- ![](../ambientales.jpg)
+Asignatura impartida en la Licenciatura de Ciencias Ambientales.
 
-# Licenciatura en Ciencias Ambientales
+ ![](ambientales.jpg)
 
-## 1. Modelación Estadística
+## 3. Introducción a la Estadística
 
-## 2. Introducción a la Estadística
+Asignatura impartida en la Licenciatura de Ciencias Ambientales.
 
 

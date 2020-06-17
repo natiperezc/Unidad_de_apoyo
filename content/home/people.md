@@ -12,4 +12,12 @@ subtitle = ""
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Responsable de la unidad",
                "Técnico de proyecto"]
+
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
 +++
