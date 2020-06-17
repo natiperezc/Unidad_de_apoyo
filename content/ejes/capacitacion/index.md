@@ -21,9 +21,11 @@ url_slides: ""
 url_video: ""
 text-align: justify
 ---
+<DIV align="justify">
 
 Otro de los [tres ejes principales de la unidad de apoyo](/ejes) es capacitar a la comunidad en el manejo del lenguaje *R* y el análisis estadístico. Para cumplir con este objetivo participamos en diferentes asignaturas impartidas a nivel de licenciatura y posgrado 
  y seminarios permanentes de métodos y herramientas.
+</DIV>
 
 <center>
 
