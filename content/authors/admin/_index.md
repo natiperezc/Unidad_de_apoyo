@@ -48,12 +48,10 @@ user_groups:
 text-align: justify
 ---
 
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
+<div style="text-align: justify"> 
 
-<div>La Unidad de Apoyo tiene por objetivo fortalecer la capacidad de la comunidad del IIES para el manejo, análisis y síntesis de información, con el fin de contribuir al mantenimiento de los 
+La Unidad de Apoyo tiene por objetivo fortalecer la capacidad de la comunidad del IIES para el manejo, análisis y síntesis de información, con el fin de contribuir al mantenimiento de los 
 altos niveles de productividad académica y de formación de recursos humanos que han caracterizado al instituto. Para lograrlo trabajamos sobre tres ejes de acción particulares: la prestación 
-permanente de *servicios de apoyo* a la comunidad del IIES durante el desarrollo de sus investigaciones, la implementación de un programa institucional de *capacitación permanente*, y la *gestión de bases de datos*.</div>
+permanente de *servicios de apoyo* a la comunidad del IIES durante el desarrollo de sus investigaciones, la implementación de un programa institucional de *capacitación permanente*, y la *gestión de bases de datos*.
 
+</div>
