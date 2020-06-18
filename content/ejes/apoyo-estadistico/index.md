@@ -21,27 +21,22 @@ title: Apoyo estadístico
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
-text-align: justify
+#text-align: justify
 disqus: false
-
+justify-content: center
 ---
 <center>
-![Apoyo a estudiantes](/post/apoyo-estadistico/apoyo2.jpg)
 
-Uno de los [tres ejes principales de la unidad de apoyo](/ejes) es proveer asesoria a estudiantes e investigadores del [IIES](https://www.iies.unam.mx/) en el planteamiento del diseño experiental de sus proyectos de investigación que cumplan con criterios estadísticos robustos. 
+![](apoyo2.jpg)
 
-Una vez obtenidos los datos, la unidad apoya en la exploración de datos, aplicación de análisis estadísticos y modelación con el fin de obtener resultados confiables que consideren supuestos estadísticos y análisis empleados actualmente en el estudio de los sistemas ecológicos.
-![](movie1.gif)
-Adicionalmente, incorporando librerias y herramientas de vanguardia para la visualización y presentación de resultados, buscamos que la comunidad del IIES comunique los resultados de sus investigaciones de forma precisa e interesante.
-
-</center>
-
-La unidad da asesoría a estudiantes y académicos del IIES en áreas como:
+/*La unidad da asesoría a estudiantes y académicos del [IIES](https://www.iies.unam.mx/) en áreas como:*/ 
 + **El diseño de experimentos y muestreos.**
 + **La estructuración de tablas y bases de datos.**
 + **La implementación de análisis y modelos estadísticos.**
 + **La visualización adecuada de la información.**
 
+![](movie1.gif)
+
 Para solicitar una asesoría por favor envía una solicitud por [correo electrónico](/contacto).
 
- 
+</center>

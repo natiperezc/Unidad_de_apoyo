@@ -17,28 +17,22 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-<DIV align="justify">
+#<DIV align="justify">
+ <p>justify-content: center</p>
+  <div id="center">
 
 Una de las herramientas más valiosas para el desarrollo de investigaciones colaborativas y/o de
 largo plazo es contar con un sistema de datos ordenados, que simplifique la búsqueda de
-
 información, facilite su uso por parte de colegas y al mismo tiempo asegure la posibilidad futura
 de uso. Por ello, la unidad, en colaboración con la Unidad de Telecomunicaciones, brinda apoyo en
 el diseño y manejo de bases de datos a los diferentes laboratorios y unidades que lo requieran. En
 particular, proveemos apoyo en:
 
-+ Capacitación para la construcción y el manejo de bases de datos.
-+ Desarrollo de metadatos.
-+ Desarrollo de repositorios de datos.
++ **Capacitación para la construcción y el manejo de bases de datos.**
++ **Desarrollo de metadatos.**
++ **Desarrollo de repositorios de datos.**
 
 Para solicitar apoyo en relación a la gestión de bases de datos por favor envía una solicitud por
 [correo electrónico](/contacto).
 
-Una de las herramientas más valiosas para el desarrollo de investigaciones o revisiones es contar con un sistema ordenado de datos, que simplifique la busqueda de información y la realización de análisis.
-Es por ello que uno de los [tres ejes principales de la unidad de apoyo](/ejes) es brinda apoyo en el **diseño y manejo de bases de datos**.
-
-</DIV>
-Actividades:
-
-  - **Capacitación para la construcción y el manejo de bases de datos**
-  - **Desarrollo de metadatos**
+  </div>

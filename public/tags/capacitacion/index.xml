@@ -17,20 +17,32 @@
       
       <guid>/ejes/capacitacion/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;La unidad trabaja de manera permanente en el diseño e implementación de cursos, talleres y foros
+&lt;p&gt;/&lt;em&gt;La unidad trabaja de manera permanente en el diseño e implementación de cursos, talleres y foros
 de discusión dirigidos a fortalecer las capacidades de la comunidad académica para el manejo y
-análisis de datos. En particular, la unidad ofrece:&lt;/p&gt;
+análisis de datos.&lt;/em&gt;/&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;escuela-ejemplo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En particular, la unidad ofrece:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia
-++ Ecología de Comunidades: métodos y Herramientas
-++ Modelación Estadística&lt;/p&gt;
+&lt;p&gt;Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Cursos del posgrado en Ciencias Biológicas de la UNAM
-++ Introducción al lenguaje R
-++ Diseño experimental y modelado estadístico en ecología
-++ Métodos multivariados&lt;/p&gt;
+&lt;p&gt;Ecología de Comunidades: métodos y Herramientas&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modelación Estadística&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cursos del posgrado en Ciencias Biológicas de la UNAM&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introducción al lenguaje R&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Diseño experimental y modelado estadístico en ecología&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Métodos multivariados&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Talleres cortos de la &lt;a href=&#34;/cursos/escuela-de-metodos&#34;&gt;Escuela de Métodos&lt;/a&gt;&lt;/p&gt;
@@ -43,14 +55,6 @@ análisis de datos. En particular, la unidad ofrece:&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;img src=&#34;user-full-3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;1-asignaturas&#34;&gt;1. Asignaturas&lt;/h2&gt;
-&lt;p&gt;Para ver la sección completa de cursos &lt;a href=&#34;/cursos&#34;&gt;(pique aquí)&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;2-seminarios-permanentes-de-la-escuela-de-métodos&#34;&gt;2. Seminarios permanentes de la Escuela de Métodos&lt;/h2&gt;
-&lt;p&gt;En &lt;a href=&#34;/cursos/escuela-de-metodos&#34;&gt;éste espacio&lt;/a&gt; desarrollamos talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. Con énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.iies.unam.mx/EscuelaMetodos/&#34;&gt;&lt;!-- raw HTML omitted --&gt;Visitanos en nuestro sitio web&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;escuela-ejemplo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>

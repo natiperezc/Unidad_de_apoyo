@@ -44,9 +44,13 @@ comunidades bióticas. Se imparte a alumnos de séptimo semestre que tienen inte
 
 ## 2. Modelación Estadística
 
-Asignatura impartida en la Licenciatura de Ciencias Ambientales.
+Asignatura impartida en la Licenciatura de Ciencias Ambientales. El objetivo general de esta asignatura es que el estudiante aprenda a 
+abstraer y conceptualizar las realidades socio-ambientales a través de la construcción de modelos estadísticos, que funcionen como 
+hipótesis para la explicación de dichas realidades.
 
  ![](ambientales.jpg)
+
+[<span style="color:blue">Puedes consultar el programa del curso aquí</span>](ProgramaModelaciónEstadística.pdf)
 
 ## 3. Introducción a la Estadística
 

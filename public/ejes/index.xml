@@ -17,19 +17,17 @@
       
       <guid>/ejes/apoyo-estadistico/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Uno de los &lt;a href=&#34;/ejes&#34;&gt;tres ejes principales de la unidad de apoyo&lt;/a&gt; es proveer asesoria a estudiantes e investigadores del &lt;a href=&#34;https://www.iies.unam.mx/&#34;&gt;IIES&lt;/a&gt; en el planteamiento del diseño experiental de sus proyectos de investigación que cumplan con criterios estadísticos robustos.&lt;/p&gt;
-&lt;p&gt;Una vez obtenidos los datos, la unidad apoya en la exploración de datos, aplicación de análisis estadísticos y modelación con el fin de obtener resultados confiables que consideren supuestos estadísticos y análisis empleados actualmente en el estudio de los sistemas ecológicos.
-&lt;img src=&#34;movie1.gif&#34; alt=&#34;&#34;&gt;
-Adicionalmente, incorporando librerias y herramientas de vanguardia para la visualización y presentación de resultados, buscamos que la comunidad del IIES comunique los resultados de sus investigaciones de forma precisa e interesante.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;La unidad da asesoría a estudiantes y académicos del IIES en áreas como:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;apoyo2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;/&lt;em&gt;La unidad da asesoría a estudiantes y académicos del &lt;a href=&#34;https://www.iies.unam.mx/&#34;&gt;IIES&lt;/a&gt; en áreas como:&lt;/em&gt;/&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;El diseño de experimentos y muestreos.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;La estructuración de tablas y bases de datos.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;La implementación de análisis y modelos estadísticos.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;La visualización adecuada de la información.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;movie1.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Para solicitar una asesoría por favor envía una solicitud por &lt;a href=&#34;/contacto&#34;&gt;correo electrónico&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -39,27 +37,22 @@ Adicionalmente, incorporando librerias y herramientas de vanguardia para la visu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/bases-de-datos/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;#&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Una de las herramientas más valiosas para el desarrollo de investigaciones colaborativas y/o de
-largo plazo es contar con un sistema de datos ordenados, que simplifique la búsqueda de&lt;/p&gt;
-&lt;p&gt;información, facilite su uso por parte de colegas y al mismo tiempo asegure la posibilidad futura
+largo plazo es contar con un sistema de datos ordenados, que simplifique la búsqueda de
+información, facilite su uso por parte de colegas y al mismo tiempo asegure la posibilidad futura
 de uso. Por ello, la unidad, en colaboración con la Unidad de Telecomunicaciones, brinda apoyo en
 el diseño y manejo de bases de datos a los diferentes laboratorios y unidades que lo requieran. En
 particular, proveemos apoyo en:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Capacitación para la construcción y el manejo de bases de datos.&lt;/li&gt;
-&lt;li&gt;Desarrollo de metadatos.&lt;/li&gt;
-&lt;li&gt;Desarrollo de repositorios de datos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacitación para la construcción y el manejo de bases de datos.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Desarrollo de metadatos.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Desarrollo de repositorios de datos.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Para solicitar apoyo en relación a la gestión de bases de datos por favor envía una solicitud por
 &lt;a href=&#34;/contacto&#34;&gt;correo electrónico&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Una de las herramientas más valiosas para el desarrollo de investigaciones o revisiones es contar con un sistema ordenado de datos, que simplifique la busqueda de información y la realización de análisis.
-Es por ello que uno de los &lt;a href=&#34;/ejes&#34;&gt;tres ejes principales de la unidad de apoyo&lt;/a&gt; es brinda apoyo en el &lt;strong&gt;diseño y manejo de bases de datos&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Capacitación para la construcción y el manejo de bases de datos&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Desarrollo de metadatos&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -70,20 +63,32 @@ Es por ello que uno de los &lt;a href=&#34;/ejes&#34;&gt;tres ejes principales d
       
       <guid>/ejes/capacitacion/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;La unidad trabaja de manera permanente en el diseño e implementación de cursos, talleres y foros
+&lt;p&gt;/&lt;em&gt;La unidad trabaja de manera permanente en el diseño e implementación de cursos, talleres y foros
 de discusión dirigidos a fortalecer las capacidades de la comunidad académica para el manejo y
-análisis de datos. En particular, la unidad ofrece:&lt;/p&gt;
+análisis de datos.&lt;/em&gt;/&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;escuela-ejemplo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En particular, la unidad ofrece:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia
-++ Ecología de Comunidades: métodos y Herramientas
-++ Modelación Estadística&lt;/p&gt;
+&lt;p&gt;Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Cursos del posgrado en Ciencias Biológicas de la UNAM
-++ Introducción al lenguaje R
-++ Diseño experimental y modelado estadístico en ecología
-++ Métodos multivariados&lt;/p&gt;
+&lt;p&gt;Ecología de Comunidades: métodos y Herramientas&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modelación Estadística&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cursos del posgrado en Ciencias Biológicas de la UNAM&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introducción al lenguaje R&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Diseño experimental y modelado estadístico en ecología&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Métodos multivariados&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Talleres cortos de la &lt;a href=&#34;/cursos/escuela-de-metodos&#34;&gt;Escuela de Métodos&lt;/a&gt;&lt;/p&gt;
@@ -96,14 +101,6 @@ análisis de datos. En particular, la unidad ofrece:&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;img src=&#34;user-full-3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;1-asignaturas&#34;&gt;1. Asignaturas&lt;/h2&gt;
-&lt;p&gt;Para ver la sección completa de cursos &lt;a href=&#34;/cursos&#34;&gt;(pique aquí)&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;2-seminarios-permanentes-de-la-escuela-de-métodos&#34;&gt;2. Seminarios permanentes de la Escuela de Métodos&lt;/h2&gt;
-&lt;p&gt;En &lt;a href=&#34;/cursos/escuela-de-metodos&#34;&gt;éste espacio&lt;/a&gt; desarrollamos talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. Con énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.iies.unam.mx/EscuelaMetodos/&#34;&gt;&lt;!-- raw HTML omitted --&gt;Visitanos en nuestro sitio web&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;escuela-ejemplo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
