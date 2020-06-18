@@ -23,8 +23,25 @@ text-align: justify
 ---
 <DIV align="justify">
 
-Otro de los [tres ejes principales de la unidad de apoyo](/ejes) es capacitar a la comunidad en el manejo del lenguaje *R* y el análisis estadístico. Para cumplir con este objetivo participamos en diferentes asignaturas impartidas a nivel de licenciatura y posgrado 
- y seminarios permanentes de métodos y herramientas.
+La unidad trabaja de manera permanente en el diseño e implementación de cursos, talleres y foros
+de discusión dirigidos a fortalecer las capacidades de la comunidad académica para el manejo y
+análisis de datos. En particular, la unidad ofrece:
+
++ Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia
+++ Ecología de Comunidades: métodos y Herramientas
+++ Modelación Estadística
+
++ Cursos del posgrado en Ciencias Biológicas de la UNAM
+++ Introducción al lenguaje R
+++ Diseño experimental y modelado estadístico en ecología
+++ Métodos multivariados
+
++ Talleres cortos de la [Escuela de Métodos](/cursos/escuela-de-metodos)
+
++ Sesiones de discusión y apoyo conjunto a través del proyecto [VieRnes de código](/proyectos/viernes-de-codigo)
+
+Para ver una lista completa de los cursos ofrecidos de [(click aquí)](/cursos).
+
 </DIV>
 
 <center>

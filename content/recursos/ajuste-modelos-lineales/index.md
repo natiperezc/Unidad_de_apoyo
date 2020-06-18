@@ -30,9 +30,9 @@ featured: true
 #  - computer tools
 
 url_pdf: ''
-#url_slides: 'https://pierremarchand20.github.io/slides/2019_01_10_infomath_git'
+url_slides: 'file:///C:/Users/ncper/Documents/web_unidad_apoyo_estadistico/Sitio_web/content/recursos/ajuste-modelos-lineales/S3_Teor%C3%ADa_Regresi%C3%B3n_lineal_simple.html'
 url_video: ''
-url_code: ''
+url_code: 'file:///C:/Users/ncper/Documents/web_unidad_apoyo_estadistico/Sitio_web/content/recursos/ajuste-modelos-lineales/S3_Teor%C3%ADa_Regresi%C3%B3n_lineal_simple.html'
 math: true
 image:
   caption: ''

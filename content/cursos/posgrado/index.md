@@ -23,7 +23,7 @@ highlight: true
 text-align: justify
 ---
 
-Participamos en asignaturas impartidas en el posgrado de Ciencias Biológicas y Ciencias de la Sostenibilidad*.
+Participamos en asignaturas impartidas en el posgrado de *Ciencias Biológicas y Ciencias de la Sostenibilidad*.
 
 ## 1. Diseño experimental y modelado estadístico en ecología
 

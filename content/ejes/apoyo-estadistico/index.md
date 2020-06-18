@@ -36,10 +36,12 @@ Adicionalmente, incorporando librerias y herramientas de vanguardia para la visu
 
 </center>
 
-Actividades:
+La unidad da asesoría a estudiantes y académicos del IIES en áreas como:
++ **El diseño de experimentos y muestreos.**
++ **La estructuración de tablas y bases de datos.**
++ **La implementación de análisis y modelos estadísticos.**
++ **La visualización adecuada de la información.**
 
-  - **Planteamiento del diseño experimental de proyectos de investigación**
-  - **Análisis de datos y modelación**
-  - **Visualización y presentación de resultados estadísticos**
+Para solicitar una asesoría por favor envía una solicitud por [correo electrónico](/contacto).
 
  
