@@ -17,7 +17,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-#<DIV align="justify">
+<DIV align="justify">
  <p>justify-content: center</p>
   <div id="center">
 
@@ -27,6 +27,8 @@ información, facilite su uso por parte de colegas y al mismo tiempo asegure la 
 de uso. Por ello, la unidad, en colaboración con la Unidad de Telecomunicaciones, brinda apoyo en
 el diseño y manejo de bases de datos a los diferentes laboratorios y unidades que lo requieran. En
 particular, proveemos apoyo en:
+
+![](database.png)
 
 + **Capacitación para la construcción y el manejo de bases de datos.**
 + **Desarrollo de metadatos.**

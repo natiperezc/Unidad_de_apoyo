@@ -18,15 +18,15 @@
       <guid>/ejes/apoyo-estadistico/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;img src=&#34;apoyo2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;/&lt;em&gt;La unidad da asesoría a estudiantes y académicos del &lt;a href=&#34;https://www.iies.unam.mx/&#34;&gt;IIES&lt;/a&gt; en áreas como:&lt;/em&gt;/&lt;/p&gt;
+&lt;p&gt;La unidad da asesoría a estudiantes y académicos del &lt;a href=&#34;https://www.iies.unam.mx/&#34;&gt;IIES&lt;/a&gt; en áreas como:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;El diseño de experimentos y muestreos.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;La estructuración de tablas y bases de datos.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;La implementación de análisis y modelos estadísticos.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;La visualización adecuada de la información.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;La visualización adecuada de la información.&lt;/strong&gt;
+&lt;img src=&#34;movie1.gif&#34; alt=&#34;&#34;&gt;
+Para solicitar una asesoría por favor envía una solicitud por &lt;a href=&#34;/contacto&#34;&gt;correo electrónico&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;movie1.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Para solicitar una asesoría por favor envía una solicitud por &lt;a href=&#34;/contacto&#34;&gt;correo electrónico&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
@@ -37,14 +37,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/bases-de-datos/</guid>
-      <description>&lt;p&gt;#&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Una de las herramientas más valiosas para el desarrollo de investigaciones colaborativas y/o de
 largo plazo es contar con un sistema de datos ordenados, que simplifique la búsqueda de
 información, facilite su uso por parte de colegas y al mismo tiempo asegure la posibilidad futura
 de uso. Por ello, la unidad, en colaboración con la Unidad de Telecomunicaciones, brinda apoyo en
 el diseño y manejo de bases de datos a los diferentes laboratorios y unidades que lo requieran. En
 particular, proveemos apoyo en:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;database.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Capacitación para la construcción y el manejo de bases de datos.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Desarrollo de metadatos.&lt;/strong&gt;&lt;/li&gt;
@@ -63,40 +63,34 @@ particular, proveemos apoyo en:&lt;/p&gt;
       
       <guid>/ejes/capacitacion/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;/&lt;em&gt;La unidad trabaja de manera permanente en el diseño e implementación de cursos, talleres y foros
+&lt;p&gt;La unidad trabaja de manera permanente en el diseño e implementación de cursos, talleres y foros
 de discusión dirigidos a fortalecer las capacidades de la comunidad académica para el manejo y
-análisis de datos.&lt;/em&gt;/&lt;/p&gt;
+análisis de datos.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;escuela-ejemplo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;En particular, la unidad ofrece:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia&lt;/li&gt;
+&lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Ecología de Comunidades: métodos y Herramientas&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Modelación Estadística&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Cursos del posgrado en Ciencias Biológicas de la UNAM&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Introducción al lenguaje R&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Diseño experimental y modelado estadístico en ecología&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Métodos multivariados&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Ecología de Comunidades: métodos y Herramientas&lt;/li&gt;
+&lt;li&gt;Modelación Estadística&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Cursos del posgrado en Ciencias Biológicas de la UNAM&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción al lenguaje R&lt;/li&gt;
+&lt;li&gt;Diseño experimental y modelado estadístico en ecología&lt;/li&gt;
+&lt;li&gt;Métodos multivariados&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;Talleres cortos de la &lt;a href=&#34;/cursos/escuela-de-metodos&#34;&gt;Escuela de Métodos&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Sesiones de discusión y apoyo conjunto a través del proyecto &lt;a href=&#34;/proyectos/viernes-de-codigo&#34;&gt;VieRnes de código&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 &lt;p&gt;Para ver una lista completa de los cursos ofrecidos de &lt;a href=&#34;/cursos&#34;&gt;(click aquí)&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
