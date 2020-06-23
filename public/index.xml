@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Productos</title>
+      <link>/tesis/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cursos</title>
       <link>/cursos/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
@@ -44,6 +53,15 @@
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/ligas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursos</title>
+      <link>/recursos/</link>
+      <pubDate>Fri, 10 Jan 2020 16:00:00 +0000</pubDate>
+      
+      <guid>/recursos/</guid>
       <description></description>
     </item>
     
@@ -81,15 +99,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recursos</title>
-      <link>/recursos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/recursos/</guid>
       <description></description>
     </item>
     

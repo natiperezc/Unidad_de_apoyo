@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academia 4.3.1">
-  <meta name="generator" content="Hugo 0.69.0" />
+  <meta name="generator" content="Hugo 0.70.0" />
 
   
 
@@ -29,7 +29,7 @@
   
     
   
-  <meta name="description" content="IIES">
+  <meta name="description" content="Unidad de apoyo en estadística, modelación y manejo de datos">
 
   
   <link rel="alternate" hreflang="en-us" href="/tags/demo/">
@@ -70,6 +70,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -92,8 +94,8 @@
   
 
   
-  <link rel="alternate" href="/tags/demo/index.xml" type="application/rss+xml" title="Unidad de Apoyo Estadístico">
-  <link rel="feed" href="/tags/demo/index.xml" type="application/rss+xml" title="Unidad de Apoyo Estadístico">
+  <link rel="alternate" href="/tags/demo/index.xml" type="application/rss+xml" title="Unidad de Apoyo">
+  <link rel="feed" href="/tags/demo/index.xml" type="application/rss+xml" title="Unidad de Apoyo">
   
 
   <link rel="manifest" href="/site.webmanifest">
@@ -107,15 +109,14 @@
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Unidad de Apoyo Estadístico">
+  <meta property="og:site_name" content="Unidad de Apoyo">
   <meta property="og:url" content="/tags/demo/">
-  <meta property="og:title" content="Demo | Unidad de Apoyo Estadístico">
-  <meta property="og:description" content="IIES"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="Demo | Unidad de Apoyo">
+  <meta property="og:description" content="Unidad de apoyo en estadística, modelación y manejo de datos"><meta property="og:image" content="/img/LogoUnidad_ED_color.png">
+  <meta property="twitter:image" content="/img/LogoUnidad_ED_color.png"><meta property="og:locale" content="en-us">
   
   <meta property="og:updated_time" content="2016-04-27T00:00:00&#43;00:00">
   
@@ -129,7 +130,7 @@
 
 
 
-  <title>Demo | Unidad de Apoyo Estadístico</title>
+  <title>Demo | Unidad de Apoyo</title>
 
 </head>
 
@@ -151,7 +152,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
         
       </div>
 
@@ -172,7 +174,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Unidad de Apoyo Estadístico</a>
+      <a class="navbar-brand" href="/">Unidad de Apoyo</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
       </button>
@@ -238,7 +240,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#integrantes"><span>Integrantes</span></a>
+          <a class="nav-link " href="/#ejes"><span>Ejes</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>Integrantes</span></a>
         </li>
 
         
@@ -274,6 +305,26 @@
         
 
         
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Productos</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/#productos"><span>Artículos</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/#publications"><span>Tesis</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
 
         
         
@@ -296,29 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#productos"><span>Productos</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Recursos</span></a>
+          <a class="nav-link " href="/#recursos"><span>Recursos</span></a>
         </li>
 
         
@@ -387,6 +416,10 @@
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
 
         
 
@@ -436,10 +469,10 @@
   
   
   <div>
-    <h2><a href="/ligas/r/">External Project</a></h2>
+    <h2><a href="/recursos/ajuste-modelos-lineales/">Ajuste de modelos lineales</a></h2>
     <div class="article-style">
       
-      An example of linking directly to an external project website using "external_link".
+      Guia para el plantamiento y ajuste de modelos lineales: explicación y código para desarrollarlos
       
     </div>
   </div>
@@ -476,10 +509,7 @@
 
     
     
-      <script async defer src="//maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
-      
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
-      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     
@@ -492,18 +522,52 @@
     
 
     
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
 
     
     
-
     
     
     
@@ -511,12 +575,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academia.min.7276a6a3624de715a5c7f54c7c07696d.js"></script>
+    <script src="/js/academia.min.e4fc229c2f28284fc2dfa5b66a52b765.js"></script>
 
     
 

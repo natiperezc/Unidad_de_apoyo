@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on Unidad de Apoyo Estadístico</title>
+    <title>Demo on Unidad de Apoyo</title>
     <link>/tags/demo/</link>
-    <description>Recent content in Demo on Unidad de Apoyo Estadístico</description>
+    <description>Recent content in Demo on Unidad de Apoyo</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>External Project</title>
-      <link>/ligas/r/</link>
+      <title>Ajuste de modelos lineales</title>
+      <link>/recursos/ajuste-modelos-lineales/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/ligas/r/</guid>
+      <guid>/recursos/ajuste-modelos-lineales/</guid>
       <description></description>
     </item>
     

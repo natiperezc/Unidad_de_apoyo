@@ -1,40 +1,23 @@
 ---
-title: 'Ajuste de modelos lineales'
-#event: Infomath - Seminar on computer tools for mathematician
-#event_url: 'https://infomath.gitlab.io'
-
-#location: 'Laboratoire Jacques-Louis Lions, Sorbonne Université, Paris, France'
-
-abstract: ''
+title: Ajuste de modelos lineales
 summary: "Guia para el plantamiento y ajuste de modelos lineales: explicación y código para desarrollarlos"
+tags:
+- Demo
+date: "2016-04-27T00:00:00Z"
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-01-10T16:00:00"
-date_end: ""
-#all_day: true
+# Optional external URL for project (replaces project detail page).
+external_link: 'file:///C:/Users/ncper/Documents/web_unidad_apoyo_estadistico/Sitio_web/content/recursos/ajuste-modelos-lineales/S3_Teor%C3%ADa_Regresi%C3%B3n_lineal_simple.html'
 
-# Schedule page publish date (NOT talk date).
-publishDate: "2020-08-10T16:00:00"
-
-authors: [francisco mora]
-#tags:
-#  - git
-#links: null
-#categories: 
-#  - other
-
-
-featured: true
-#projects:
-#  - computer tools
-
+image:
+  caption: 
+  focal_point: Smart
 url_pdf: ''
 url_slides: 'file:///C:/Users/ncper/Documents/web_unidad_apoyo_estadistico/Sitio_web/content/recursos/ajuste-modelos-lineales/S3_Teor%C3%ADa_Regresi%C3%B3n_lineal_simple.html'
-url_video: ''
-url_code: 'file:///C:/Users/ncper/Documents/web_unidad_apoyo_estadistico/Sitio_web/content/recursos/ajuste-modelos-lineales/S3_Teor%C3%ADa_Regresi%C3%B3n_lineal_simple.html'
 math: true
-image:
-  caption: ''
-  focal_point: Smart
+
+featured: true
 ---
+
+
+
+

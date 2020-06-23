@@ -19,7 +19,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-#text-align: justify
+text-align: justify
 justify-content: center
 ---
 <DIV align="justify">
@@ -36,10 +36,12 @@ En particular, la unidad ofrece:
      + Ecología de Comunidades: métodos y Herramientas
      + Modelación Estadística
 
+
 2. Cursos del posgrado en Ciencias Biológicas de la UNAM
      + Introducción al lenguaje R
      + Diseño experimental y modelado estadístico en ecología
      + Métodos multivariados
+
 
 3. Talleres cortos de la [Escuela de Métodos](/cursos/escuela-de-metodos)
 
