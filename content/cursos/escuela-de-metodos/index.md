@@ -9,7 +9,7 @@ image:
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point: "Right"
+  focal_point: "Center"
   preview_only: true
 summary: 
 tags:
@@ -20,7 +20,7 @@ text-align: justify
 
 El objetivo de la escuela de métodos es proveer métodos y técnicas actualizadas para el análisis cuantitativo de datos y el análisis cualitativo de la información. 
 
-Para ello se imparten talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. En ellos se hará énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
+Para ello se imparten talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. En ellos se hace énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
 Producción de materiales didácticos sobre los métodos presentados en los talleres, que faciliten su implementación en docencia e investigación.
 
  ![](escuela.jpg)

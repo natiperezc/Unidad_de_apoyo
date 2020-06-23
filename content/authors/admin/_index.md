@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: user-full.png
+avatar_image: LogoUnidad_ED_color.png
 bio: Brindamos apoyo a la comunidad del IIES en el análisis de datos y la modelación estadística.
 btn:
 #- label: Download Resume

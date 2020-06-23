@@ -19,7 +19,7 @@ font_size = "M"
 description = "Unidad de apoyo en estadística, modelación y manejo de datos"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "LogoUnidad_ED_color.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 #twitter = ""

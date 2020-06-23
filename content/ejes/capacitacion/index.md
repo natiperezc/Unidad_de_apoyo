@@ -33,13 +33,13 @@ análisis de datos.
 En particular, la unidad ofrece:
 
 1. Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia
- + Ecología de Comunidades: métodos y Herramientas
- + Modelación Estadística
+     + Ecología de Comunidades: métodos y Herramientas
+     + Modelación Estadística
 
 2. Cursos del posgrado en Ciencias Biológicas de la UNAM
- + Introducción al lenguaje R
- + Diseño experimental y modelado estadístico en ecología
- + Métodos multivariados
+     + Introducción al lenguaje R
+     + Diseño experimental y modelado estadístico en ecología
+     + Métodos multivariados
 
 3. Talleres cortos de la [Escuela de Métodos](/cursos/escuela-de-metodos)
 

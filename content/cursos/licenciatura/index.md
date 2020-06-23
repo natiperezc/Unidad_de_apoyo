@@ -33,16 +33,16 @@ text-align: justify
 
 Participamos en asignaturas impartidas en las licenciaturas de ciencias ambientales y ecología de la *Escuela Nacional de Estudios Superiores - Unidad Morelia.*
 
-## 1. Ecología de Comunidades: Métodos y Herramientas
+### 1. Ecología de Comunidades: Métodos y Herramientas
 
 El objetivo general de esta asignatura es comprender las metodologías y las técnicas analíticas empleadas en el estudio de las
-comunidades bióticas. Se imparte a alumnos de séptimo semestre que tienen interes en desarrollar análisis empleando lenguaje *R.
+comunidades bióticas. Se imparte a alumnos de séptimo semestre que tienen interes en desarrollar análisis empleando lenguaje *R*.
 
  ![](ecologia.jpg)
 
 [<span style="color:blue">Puedes consultar el programa del curso aquí</span>](http://www.ecologia.enesmorelia.unam.mx/pdf/66.pdf)
 
-## 2. Modelación Estadística
+### 2. Modelación Estadística
 
 Asignatura impartida en la Licenciatura de Ciencias Ambientales. El objetivo general de esta asignatura es que el estudiante aprenda a 
 abstraer y conceptualizar las realidades socio-ambientales a través de la construcción de modelos estadísticos, que funcionen como 
@@ -52,8 +52,7 @@ hipótesis para la explicación de dichas realidades.
 
 [<span style="color:blue">Puedes consultar el programa del curso aquí</span>](ProgramaModelaciónEstadística.pdf)
 
-## 3. Introducción a la Estadística
+### 3. Introducción a la Estadística
 
-Asignatura impartida en la Licenciatura de Ciencias Ambientales.
-
-
+Asignatura impartida en la Licenciatura de Ciencias Ambientales. El objetivo general de esta asignatura es que el estudiante conozca y comprenda los conceptos básicos de estadística 
+descriptiva de conjuntos de datos, que incluyen medidas de tendencia central, de dispersión, gráficos básicos, coeficientes de correlación y regresión lineal. 
