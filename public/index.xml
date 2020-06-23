@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title>Productos</title>
-      <link>/tesis/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cursos</title>
       <link>/cursos/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
@@ -99,6 +90,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productos</title>
+      <link>/tesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tesis/</guid>
       <description></description>
     </item>
     
