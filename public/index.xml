@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>Recursos</title>
+      <title>Productos</title>
       <link>/recursos/</link>
       <pubDate>Fri, 10 Jan 2020 16:00:00 +0000</pubDate>
       
@@ -95,10 +95,10 @@
     
     <item>
       <title>Productos</title>
-      <link>/tesis/</link>
+      <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tesis/</guid>
+      <guid>/publications/</guid>
       <description></description>
     </item>
     
