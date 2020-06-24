@@ -15,14 +15,14 @@ publication_short: ""
 publication_types:
 - "2"
 #publishDate: "2018-06-01T00:00:00Z"
-slides: example
+
 summary: 
 tags:
 - Servicios ecosistémicos
 title: "Valoración económica de cuatro servicios ecosistémicos de la región de Chamela, Jalisco, México."
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "/Naime - 2016 - Valoración económica de cuatro servicios ecosistémicos de la región de Chamela, Jalisco, México.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.70.0" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Unidad de apoyo en estadística, modelación y manejo de datos">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Gran parte de los estudios en sistemas silvopastoriles de trópicos secos se han realizado con Leucaena leucocephala. Sin embargo, existen otras especies de árboles forrajeros menos estudiadas. El objetivo de este trabajo fue evaluar el establecimiento y el crecimiento en altura, diámetro, copa y producción de biomasa sobre cuatro especies de árboles forrajeros (Leucaena leucocephala, Gliricidia sepium, Guazuma ulmifolia y Moringa oleifera) bajo los efectos de dos niveles de riego (Riego y Temporal) y tres niveles de defoliación (25%, 50% y 75%), con el fin de obtener información para su manejo agronómico en el trópico seco michoacano en México. El experimento se realizó en el Campo Experimental INIFAP-Valle de Apatzingán, con un diseño experimental factorial en bloques divididos al azar. Los resultados fueron analizados mediante modelos lineares mixtos. Se obtuvo que durante el establecimiento L. leucocephala alcanzó una altura promedio 3.0, 4.4 y 11.5 veces mayor que M. oleífera, G. sepium y G. Ulmifolia, respectivamente. Después de un periodo de 12 meses de seguimiento bajo los tratamientos de riego y defoliación se encontró que L. leucocephala fue la especie con mayor crecimiento pero solo G. sepium presentó diferencias significativas entre los tratamientos de riego para altura y diámetro. En la producción de biomasa L. leucocephala presentó el mayor rendimiento en 75% de defoliación con 103.03 ± 16.52 kg MS/ha, seguida por G. sepium también en el 75% de defoliación con 79.62 ± 19.77 kg MS/ha. Así mismo se observó que con tres podas y tiempos de recuperación de tres y seis meses las especies no se vieron afectadas e incluso con cada defoliación aumentaron su producción de biomasa. Por lo que consideramos que L. leucocephala y G. sepium son las especies más adecuadas en este sitio, debido a su crecimiento y producción de biomasa aun en condición de temporal.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/tesis/garcia-2017/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#3f51b5">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Open+Sans|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.318c0d9adb16ec63229c19e7b985e541.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/tesis/garcia-2017/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Unidad de Apoyo">
+  <meta property="og:url" content="/tesis/garcia-2017/">
+  <meta property="og:title" content="Riego y defoliación sobre especies leñosas forrajeras y las propiedades del suelo en el trópico seco de Michoacán | Unidad de Apoyo">
+  <meta property="og:description" content="Gran parte de los estudios en sistemas silvopastoriles de trópicos secos se han realizado con Leucaena leucocephala. Sin embargo, existen otras especies de árboles forrajeros menos estudiadas. El objetivo de este trabajo fue evaluar el establecimiento y el crecimiento en altura, diámetro, copa y producción de biomasa sobre cuatro especies de árboles forrajeros (Leucaena leucocephala, Gliricidia sepium, Guazuma ulmifolia y Moringa oleifera) bajo los efectos de dos niveles de riego (Riego y Temporal) y tres niveles de defoliación (25%, 50% y 75%), con el fin de obtener información para su manejo agronómico en el trópico seco michoacano en México. El experimento se realizó en el Campo Experimental INIFAP-Valle de Apatzingán, con un diseño experimental factorial en bloques divididos al azar. Los resultados fueron analizados mediante modelos lineares mixtos. Se obtuvo que durante el establecimiento L. leucocephala alcanzó una altura promedio 3.0, 4.4 y 11.5 veces mayor que M. oleífera, G. sepium y G. Ulmifolia, respectivamente. Después de un periodo de 12 meses de seguimiento bajo los tratamientos de riego y defoliación se encontró que L. leucocephala fue la especie con mayor crecimiento pero solo G. sepium presentó diferencias significativas entre los tratamientos de riego para altura y diámetro. En la producción de biomasa L. leucocephala presentó el mayor rendimiento en 75% de defoliación con 103.03 ± 16.52 kg MS/ha, seguida por G. sepium también en el 75% de defoliación con 79.62 ± 19.77 kg MS/ha. Así mismo se observó que con tres podas y tiempos de recuperación de tres y seis meses las especies no se vieron afectadas e incluso con cada defoliación aumentaron su producción de biomasa. Por lo que consideramos que L. leucocephala y G. sepium son las especies más adecuadas en este sitio, debido a su crecimiento y producción de biomasa aun en condición de temporal."><meta property="og:image" content="/img/LogoUnidad_ED_color.png">
+  <meta property="twitter:image" content="/img/LogoUnidad_ED_color.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2017-08-01T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2017-08-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Riego y defoliación sobre especies leñosas forrajeras y las propiedades del suelo en el trópico seco de Michoacán | Unidad de Apoyo</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Unidad de Apoyo</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Inicio</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#ejes"><span>Ejes</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#integrantes"><span>Integrantes</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#cursos"><span>Cursos</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Productos</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/#productos"><span>Artículos</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/#tesis"><span>Tesis</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#recursos"><span>Recursos</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#ligas"><span>Ligas</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contacto"><span>Contacto</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article py-5" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    <div class="article-container py-3">
+      <h1 itemprop="name">Riego y defoliación sobre especies leñosas forrajeras y las propiedades del suelo en el trópico seco de Michoacán</h1>
+
+      
+
+      
+      
+
+
+
+<meta content="2017-08-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2017-08-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/flor-paloma-garcia-vargas/">Flor Paloma García Vargas</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Aug 1, 2017</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/tesis/garcia-2017/&amp;text=Riego%20y%20defoliaci%c3%b3n%20sobre%20especies%20le%c3%b1osas%20forrajeras%20y%20las%20propiedades%20del%20suelo%20en%20el%20tr%c3%b3pico%20seco%20de%20Michoac%c3%a1n" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/tesis/garcia-2017/&amp;t=Riego%20y%20defoliaci%c3%b3n%20sobre%20especies%20le%c3%b1osas%20forrajeras%20y%20las%20propiedades%20del%20suelo%20en%20el%20tr%c3%b3pico%20seco%20de%20Michoac%c3%a1n" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Riego%20y%20defoliaci%c3%b3n%20sobre%20especies%20le%c3%b1osas%20forrajeras%20y%20las%20propiedades%20del%20suelo%20en%20el%20tr%c3%b3pico%20seco%20de%20Michoac%c3%a1n&amp;body=/tesis/garcia-2017/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/tesis/garcia-2017/&amp;title=Riego%20y%20defoliaci%c3%b3n%20sobre%20especies%20le%c3%b1osas%20forrajeras%20y%20las%20propiedades%20del%20suelo%20en%20el%20tr%c3%b3pico%20seco%20de%20Michoac%c3%a1n" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Riego%20y%20defoliaci%c3%b3n%20sobre%20especies%20le%c3%b1osas%20forrajeras%20y%20las%20propiedades%20del%20suelo%20en%20el%20tr%c3%b3pico%20seco%20de%20Michoac%c3%a1n%20/tesis/garcia-2017/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/tesis/garcia-2017/&amp;title=Riego%20y%20defoliaci%c3%b3n%20sobre%20especies%20le%c3%b1osas%20forrajeras%20y%20las%20propiedades%20del%20suelo%20en%20el%20tr%c3%b3pico%20seco%20de%20Michoac%c3%a1n" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/Garc%c3%ada%20Vargas%20-%202017%20-%20Riego%20y%20defoliaci%c3%b3n%20sobre%20especies%20le%c3%b1osas%20forrajeras%20y%20las%20propiedades%20del%20suelo%20en%20el%20tr%c3%b3pico%20seco%20de%20Michoac%c3%a1n.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+      
+      
+    </div>
+  </div>
+</div>
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      <h3 id="maestría-en-ciencias-ambientales-universidad-michoacana-de-san-nicolás-de-hidalgo">Maestría en Ciencias Ambientales, Universidad Michoacana de San Nicolás de Hidalgo</h3>
+<h2 id="resumen">Resumen</h2>
+<p>En la actualidad, los ecosistemas naturales están siendo modificados rápidamente, el Bosque Tropical Seco ha sido seriamente afectado durante las últimas décadas; esto se debe principalmente a su conversión en campos de cultivo o pastizales utilizados para la ganadería. La ganadería es una actividad comercial de gran importancia en estos sitios que presentan largos periodos de sequía, en donde el modelo que se ha utilizado y que se sigue utilizando es la ganadería extensiva, caracterizada por la presencia de grandes áreas convertidas a pastizales en donde el ganado pasta libremente. Dicho modelo se caracteriza porque los árboles y arbustos nativos suelen ser removidos en su totalidad por considerarse negativos al proveer sombra y limitar el crecimiento de los pastos. Por lo tanto, los sistemas ganaderos manejados bajo este modelo suelen presentan un solo estrato vegetativo, baja diversidad biológica y poca eficiencia de uso del suelo y del agua. Por otro lado, estudios indican que la población humana presenta un crecimiento exponencial, aumentando la necesidad de cubrir necesidades básicas como la alimentación, con lo cual se pone aún más presión sobre los ecosistemas empleados para la ganadería. En este contexto, surge la necesidad de buscar e implementar alternativas que detengan o disminuyan el deterioro ambiental ocasionado por la ganadería extensiva, sin perder el desarrollo económico; esto lleva a la aplicación de nuevos sistemas para la producción animal.</p>
+<p>Actualmente los sistemas Silvopastoriles presentan una serie de ventajas para la ganadería, como son: el incrementar la biodiversidad, disminuir la erosión, tener una alta eficiencia del uso de agua, presentar altos contenidos proteicos, aumentar la producción de carne y leche, por mencionar algunos. Por lo tanto, las prácticas silvopastoriles podrían ayudar al desarrollo de una producción pecuaria sustentable y promover un equilibrio ecológico y ambiental. En Agosto de 2014 se estableció el experimento, durante los primeros seis meses las plantas recibieron riego parejo para promover su crecimiento. A partir de Febrero de 2015 se comenzó la aplicación de los tratamientos de riego y se realizó la primera defoliación, la segunda defoliación fue en Agosto 2015, y la última defoliación en Noviembre 2015.
+Se utilizó un diseño en parcelas divididas en bloques al azar, antes de iniciar el experimento se preparó el terreno y se cercó todo el perímetro y se instaló un sistema de riego por goteo. Cada unidad experimental constó de una especie, un nivel de riego y un nivel de defoliación. Teniendo un total de 30 tratamientos, cuatro repeticiones y 120 unidades experimentales (UE). Cada UE estuvo constituida de tres surcos separados por 1.8 m, siendo solo útil para el experimento el surco central. Se utilizó una densidad de siembra de 40,000 plantas/hectárea y la distancia entre cada planta fue de 15 cm, evaluando así cerca de 240 plantas por especie. Las especies evaluadas fueron Leucaena leucocephala, Gliricidia sepium, Guazuma ulmifolia y Moringa oleifera.</p>
+<h3 id="resumen-respuestas-al-riego-y-la-defoliación-de-especies-leñosas-del-trópico-seco">Resumen ´Respuestas al riego y la defoliación de especies leñosas del trópico seco´</h3>
+<p>Gran parte de los estudios en sistemas silvopastoriles de trópicos secos se han realizado con Leucaena leucocephala. Sin embargo, existen otras especies de árboles forrajeros menos estudiadas. El objetivo de este trabajo fue evaluar el establecimiento y el crecimiento en altura, diámetro, copa y producción de biomasa sobre cuatro especies de árboles forrajeros (Leucaena leucocephala, Gliricidia sepium, Guazuma ulmifolia y Moringa oleifera) bajo los efectos de dos niveles de riego (Riego y Temporal) y tres niveles de defoliación (25%, 50% y 75%), con el fin de obtener información para su manejo agronómico en el trópico seco michoacano en México. El experimento se realizó en el Campo Experimental INIFAP-Valle de Apatzingán, con un diseño experimental factorial en bloques divididos al azar. Los resultados fueron analizados mediante modelos lineares mixtos. Se obtuvo que durante el establecimiento L. leucocephala alcanzó una altura promedio 3.0, 4.4 y 11.5 veces mayor que M. oleífera, G. sepium y G. Ulmifolia, respectivamente. Después de un periodo de 12 meses de seguimiento bajo los tratamientos de riego y defoliación se encontró que L. leucocephala fue la especie con mayor crecimiento pero solo G. sepium presentó diferencias significativas entre los tratamientos de riego para altura y diámetro. En la producción de biomasa L. leucocephala presentó el mayor rendimiento en 75% de defoliación con 103.03 ± 16.52 kg MS/ha, seguida por G. sepium también en el 75% de defoliación con 79.62 ± 19.77 kg MS/ha. Así mismo se observó que con tres podas y tiempos de recuperación de tres y seis meses las especies no se vieron afectadas e incluso con cada defoliación aumentaron su producción de biomasa. Por lo que consideramos que L. leucocephala y G. sepium son las especies más adecuadas en este sitio, debido a su crecimiento y producción de biomasa aun en condición de temporal.</p>
+
+    </div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/especies-lenosas/">Especies leñosas</a>
+  
+</div>
+
+
+
+    
+      
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/flor-paloma-garcia-vargas/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+      
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academia.min.e4fc229c2f28284fc2dfa5b66a52b765.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p class="powered-by">
+          <a href="/privacy/">Privacy Policy</a>
+        </p>
+        
+        <p>
+          
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right">
+          
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

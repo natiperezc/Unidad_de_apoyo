@@ -15,14 +15,13 @@ publication_short: ""
 publication_types:
 - "2"
 #publishDate: "2018-06-01T00:00:00Z"
-slides: example
 summary: 
 tags:
 - Bosque Seco Tropical
 title: "Estructura y función de las comunidades de escarabajos coprófagos en un bosque tropical seco: midiendo los efectos de un esfuerzo de restauración en la región de Chamela, Jalisco"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "/Gámez Yáñez - 2017 - Estructura y función de las comunidades de escarabajos coprófagos en un bosque tropical seco midiendo los efectos d.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

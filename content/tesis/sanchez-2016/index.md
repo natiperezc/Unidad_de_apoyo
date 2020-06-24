@@ -14,15 +14,15 @@ publication: '*Licenciatura en Ciencias Ambientales, ENES - UNAM*'
 publication_short: ""
 publication_types:
 - "2"
-#publishDate: "2018-06-01T00:00:00Z"
-slides: example
+publishDate: "2016-02-01T00:00:00Z"
+#slides: example
 summary: 
 tags:
 - Bosque seco tropical
 title: "Uso de servicios ecosistémicos en el bosque tropical seco secundario de la región Chamela-Cuixmala, Jalisco, México"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "/Sánchez Martínez - 2016 - Uso de servicios ecosistémicos en el bosque tropical seco secundario de la región Chamela-Cuixmala, Jalisco, M.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

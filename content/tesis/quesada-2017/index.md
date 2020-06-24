@@ -15,14 +15,13 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-08-01T00:00:00Z"
-slides: example
 summary: 
 tags:
 - Agroecosistemas
 title: "Estrategias de manejo de saltamontes mediante hongos entomopatógenos en agroecosistemas de maíz de Erongarícuaro, Michoacán, México"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "/Quesada Béjar - 2017 - Estrategias de manejo de saltamontes mediante hongos entomopatógenos en agroecosistemas de maíz de Erongarícuaro,.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
