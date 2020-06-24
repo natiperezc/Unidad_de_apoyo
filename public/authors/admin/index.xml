@@ -6,10 +6,37 @@
     <description>Recent content on Unidad de Apoyo</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Francisco Mora</title>
+      <link>/integrantes/francisco_mora/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/integrantes/francisco_mora/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;pacho.jpg&#34; alt=&#34;&#34;&gt;
+Me interesa el estudio de la diversidad biológica y su relación con las funciones que desarrollan los bosques tropicales. Disfruto en particular identificar plantas en campo, así como procesar y analizar información empleando modelos estadísticos. Es esta última actividad la que constituye el centro de mi trabajo en el IIES. Cuento con experiencia docente en Estadística para Ciencias Ambientales y Biológicas al nivel licenciatura y posgrado. Mi principal herramienta de trabajo es el lenguaje R. He participado en el desarrollo de proyectos de investigación y de docencia asociados al IIES y a la Escuela Nacional de Estudios Superiores (UNAM, campus Morelia).&lt;/p&gt;
+&lt;p&gt;En la actualidad me desempeño como Técnico Académico a cargo de la Unidad de Apoyo en Estadística, Modelación y Manejo de Datos del Instituto de Investigaciones en Ecosistemas y Sustentabilidad de la UNAM.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CATEGORÍA UNAM&lt;/strong&gt;
+Técnico académico titular A&lt;/p&gt;
+&lt;h3 id=&#34;1--intereses&#34;&gt;1.  Intereses&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ecología de bosques tropicales&lt;/li&gt;
+&lt;li&gt;Biodiversidad y funcionamiento de bosques tropicales secundarios&lt;/li&gt;
+&lt;li&gt;Conservación biológica en paisajes manejados&lt;/li&gt;
+&lt;li&gt;Modelación y análisis estadístico de procesos ecológicos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2--áreas-de-especialización&#34;&gt;2.  Áreas de especialización&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Análisis de procesos ecológicos empleando herramientas estadísticas (modelos lineales, modelos mixtos, modelos con ecuaciones estructurales, entre otros)&lt;/li&gt;
+&lt;li&gt;Relación entre biodiversidad y funcionamiento de ecosistemas (BEF)&lt;/li&gt;
+&lt;li&gt;Almacenes de carbono en bosques tropicales&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Assessing the cascading effects of management and landscape on the arthropod guilds occurring in papaya plantations</title>
@@ -27,6 +54,26 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/productos/sarabia-2018/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plant growth promotion traits of rhizosphere yeasts and their response to soil characteristics and crop cycle in maize agroecosystems</title>
+      <link>/tesis/santiago-2020/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tesis/santiago-2020/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plant growth promotion traits of rhizosphere yeasts and their response to soil characteristics and crop cycle in maize agroecosystems</title>
+      <link>/tesis/sarabia-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tesis/sarabia-2018/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>

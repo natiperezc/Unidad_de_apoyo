@@ -38,7 +38,7 @@
 [[main]]
   parent = "Productos"
   name = "Tesis"
-  url = "#publications"
+  url = "#tesis"
   weight = 50
 
 [[main]]

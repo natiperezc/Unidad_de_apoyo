@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Posts</title>
+      <link>/integrantes/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/integrantes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Productos</title>
       <link>/productos/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
@@ -50,18 +59,9 @@
     <item>
       <title>Productos</title>
       <link>/recursos/</link>
-      <pubDate>Fri, 10 Jan 2020 16:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/recursos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>/integrantes/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/integrantes/</guid>
       <description></description>
     </item>
     
@@ -85,20 +85,20 @@
     </item>
     
     <item>
+      <title>Productos</title>
+      <link>/tesis/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ejes</title>
       <link>/ejes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ejes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productos</title>
-      <link>/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/</guid>
       <description></description>
     </item>
     
