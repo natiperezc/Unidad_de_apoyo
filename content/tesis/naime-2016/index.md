@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Licenciatura en Biología*'
+publication: '*Licenciatura en Biología, Facultad de Ciencias - UNAM*'
 publication_short: ""
 publication_types:
 - "2"

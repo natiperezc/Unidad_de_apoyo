@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Licenciatura en ciencias ambientales*'
+publication: '*Licenciatura en Ciencias Ambientales, ENES - UNAM*'
 publication_short: ""
 publication_types:
 - "2"

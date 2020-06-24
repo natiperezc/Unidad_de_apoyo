@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Maestría en Ciencias Biológicas*'
+publication: '*Maestría en Ciencias Biológicas, IIES - UNAM*'
 publication_short: ""
 publication_types:
 - "2"

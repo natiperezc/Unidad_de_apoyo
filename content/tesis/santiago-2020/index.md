@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Maestría en Geografía*'
+publication: '*Maestría en Geografía, UNAM*'
 publication_short: ""
 publication_types:
 - "2"
@@ -23,15 +23,10 @@ tags:
 title: "Evaluación de la susceptibilidad a procesos de remoción en masa. Una comparación de modelos estadísticos en las subcuenca del río Tuxpan, Michoacán."
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "/santiago-2020.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
