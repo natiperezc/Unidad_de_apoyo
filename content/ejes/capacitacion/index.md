@@ -13,7 +13,9 @@ links:
 # slides: example
 summary: Cursos y seminarios disponibles 
 tags:
-- capacitacion
+- Capacitacion
+- Escuela de métodos
+- Cursos
 title: Capacitación Permanente
 url_code: ""
 url_pdf: ""

@@ -138,12 +138,22 @@
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>/tags/modelos/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/recursos/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regresion-lineal/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -164,6 +174,11 @@
   
   <url>
     <loc>/recursos/analisis-multivariado/</loc>
+    <lastmod>2019-01-10T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/datos/</loc>
     <lastmod>2019-01-10T16:00:00+00:00</lastmod>
   </url>
   
@@ -278,11 +293,6 @@
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/ligas/r/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -338,6 +348,10 @@
   </url>
   
   <url>
+    <loc>/tags/analisis-estadisticos/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/apoyo/</loc>
   </url>
   
@@ -346,11 +360,11 @@
   </url>
   
   <url>
-    <loc>/tags/bases/</loc>
+    <loc>/ejes/bases-de-datos/</loc>
   </url>
   
   <url>
-    <loc>/ejes/bases-de-datos/</loc>
+    <loc>/tags/bases-de-datos/</loc>
   </url>
   
   <url>
@@ -359,6 +373,10 @@
   
   <url>
     <loc>/ejes/capacitacion/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/cursos/</loc>
   </url>
   
   <url>
@@ -374,6 +392,10 @@
   </url>
   
   <url>
+    <loc>/tags/metadatos/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/nathalia-perez/</loc>
   </url>
   
@@ -383,6 +405,10 @@
   
   <url>
     <loc>/cursos/posgrado/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/repositorios/</loc>
   </url>
   
 </urlset>

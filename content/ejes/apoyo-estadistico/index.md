@@ -16,6 +16,8 @@ image:
 summary: Apoyo en diseño experimental, métodos y análisis.
 tags:
 - Apoyo
+- Análisis estadisticos
+- Modelos
 title: Apoyo estadístico
 #url_code: ""
 #url_pdf: ""
@@ -34,7 +36,6 @@ La unidad da asesoría a estudiantes y académicos del [IIES](https://www.iies.u
 + **La estructuración de tablas y bases de datos.**
 + **La implementación de análisis y modelos estadísticos.**
 + **La visualización adecuada de la información.**
-#![](movie1.gif)
-Para solicitar una asesoría por favor envía una solicitud por [correo electrónico](/contacto).
+Para solicitar una asesoría por favor envía una solicitud por [**correo electrónico**](/contacto).
 
 </center>

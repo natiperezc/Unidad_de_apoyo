@@ -21,6 +21,49 @@
     </item>
     
     <item>
+      <title>Capacitación Permanente</title>
+      <link>/ejes/capacitacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ejes/capacitacion/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;La unidad trabaja de manera permanente en el diseño e implementación de cursos, talleres y foros
+de discusión dirigidos a fortalecer las capacidades de la comunidad académica para el manejo y
+análisis de datos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;escuela-ejemplo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En particular, la unidad ofrece:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ecología de Comunidades: métodos y Herramientas&lt;/li&gt;
+&lt;li&gt;Modelación Estadística&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cursos del posgrado en Ciencias Biológicas de la UNAM&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción al lenguaje R&lt;/li&gt;
+&lt;li&gt;Diseño experimental y modelado estadístico en ecología&lt;/li&gt;
+&lt;li&gt;Métodos multivariados&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Talleres cortos de la &lt;a href=&#34;/cursos/escuela-de-metodos&#34;&gt;Escuela de Métodos&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sesiones de discusión y apoyo conjunto a través del proyecto &lt;a href=&#34;/proyectos/viernes-de-codigo&#34;&gt;VieRnes de código&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Para ver una lista completa de los cursos ofrecidos de &lt;a href=&#34;/cursos&#34;&gt;(click aquí)&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;user-full-3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Escuela de Métodos</title>
       <link>/cursos/escuela-de-metodos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

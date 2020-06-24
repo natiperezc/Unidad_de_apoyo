@@ -6,7 +6,7 @@ event_url: 'https://infomath.gitlab.io'
 location: 'Laboratoire Jacques-Louis Lions, Sorbonne Université, Paris, France'
 
 abstract: ''
-summary: Small introduction to git where I try to convince you that you should use it.
+summary:  Herramientas de la estadística multivariada, para analizar situaciones con múltiples variables de respuesta.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -36,6 +36,7 @@ url_code: ''
 math: true
 image:
   caption: ''
-  focal_point: Smart
+  focal_point: Center
+  preview_only: true
 
 ---

@@ -26,7 +26,7 @@ subtitle = "Tesis donde ha dado apoyo la unidad"
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "tesis"
+    category = ""
     publication_type = ""
     exclude_featured = false
   

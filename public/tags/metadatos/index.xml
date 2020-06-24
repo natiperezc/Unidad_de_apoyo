@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metadatos on Unidad de Apoyo</title>
+    <link>/tags/metadatos/</link>
+    <description>Recent content in Metadatos on Unidad de Apoyo</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/tags/metadatos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bases de Datos</title>
+      <link>/ejes/bases-de-datos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ejes/bases-de-datos/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Una de las herramientas más valiosas para el desarrollo de investigaciones colaborativas y/o de
+largo plazo es contar con un sistema de datos ordenados, que simplifique la búsqueda de
+información, facilite su uso por parte de colegas y al mismo tiempo asegure la posibilidad futura
+de uso. Por ello, la unidad, en colaboración con la Unidad de Telecomunicaciones, brinda apoyo en
+el diseño y manejo de bases de datos a los diferentes laboratorios y unidades que lo requieran. 
+&lt;img src=&#34;database.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En particular, proveemos apoyo en:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Capacitación para la construcción y el manejo de bases de datos.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Desarrollo de metadatos.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Desarrollo de repositorios de datos.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para solicitar apoyo en relación a la gestión de bases de datos por favor envía una solicitud por
+&lt;a href=&#34;/contacto&#34;&gt;correo electrónico&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -56,3 +56,5 @@ hipótesis para la explicación de dichas realidades.
 
 Asignatura impartida en la Licenciatura de Ciencias Ambientales. El objetivo general de esta asignatura es que el estudiante conozca y comprenda los conceptos básicos de estadística 
 descriptiva de conjuntos de datos, que incluyen medidas de tendencia central, de dispersión, gráficos básicos, coeficientes de correlación y regresión lineal. 
+
+ ![](ambientales.jpg)

@@ -10,7 +10,9 @@ links:
 #slides: example
 summary: Capacitación para el manejo y gestión de bases de datos
 tags:
-- bases
+- Bases de datos
+- Metadatos
+- Repositorios
 title: Bases de Datos
 url_code: ""
 url_pdf: ""

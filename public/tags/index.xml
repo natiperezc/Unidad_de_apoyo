@@ -39,11 +39,38 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
+      <title>Modelos</title>
+      <link>/tags/modelos/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/modelos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regresión lineal</title>
+      <link>/tags/regresion-lineal/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regresion-lineal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datos</title>
+      <link>/tags/datos/</link>
+      <pubDate>Thu, 10 Jan 2019 16:00:00 +0000</pubDate>
+      
+      <guid>/tags/datos/</guid>
       <description></description>
     </item>
     
@@ -102,15 +129,6 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rstudio</title>
       <link>/tags/rstudio/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -129,6 +147,15 @@
     </item>
     
     <item>
+      <title>Análisis estadisticos</title>
+      <link>/tags/analisis-estadisticos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/analisis-estadisticos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Apoyo</title>
       <link>/tags/apoyo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -138,20 +165,38 @@
     </item>
     
     <item>
-      <title>bases</title>
-      <link>/tags/bases/</link>
+      <title>Bases de datos</title>
+      <link>/tags/bases-de-datos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bases/</guid>
+      <guid>/tags/bases-de-datos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>capacitacion</title>
+      <title>Capacitacion</title>
       <link>/tags/capacitacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/capacitacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cursos</title>
+      <link>/tags/cursos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cursos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metadatos</title>
+      <link>/tags/metadatos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/metadatos/</guid>
       <description></description>
     </item>
     
@@ -161,6 +206,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/posgrado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repositorios</title>
+      <link>/tags/repositorios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/repositorios/</guid>
       <description></description>
     </item>
     

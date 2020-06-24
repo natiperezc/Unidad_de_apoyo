@@ -6,7 +6,7 @@ title: 'Ajuste modelos no lineales'
 #location: 'Laboratoire Jacques-Louis Lions, Sorbonne Université, Paris, France'
 
 #abstract: ''
-#summary: Small introduction to git where I try to convince you that you should use it.
+summary: "Guia para el plantamiento y ajuste de modelos no lineales: explicación y código para desarrollarlos"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -15,15 +15,17 @@ date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-01-10T16:00:00"
+publishDate: "2020-01-10T16:00:00"
 
 #authors: []
-#tags:
-#  - git
-
+tags:
+  - Modelos
 #categories: 
 #  - other
-
+image:
+  caption: 
+  focal_point: Center
+  preview_only: true
 
 featured: true
 #projects:
@@ -34,8 +36,4 @@ url_pdf: ''
 url_video: ''
 url_code: ''
 math: true
-image:
-  caption: ''
-  focal_point: Smart
-
 ---

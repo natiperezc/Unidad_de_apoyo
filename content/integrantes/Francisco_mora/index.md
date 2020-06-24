@@ -50,5 +50,8 @@ En la actualidad me desempeño como Técnico Académico a cargo de la Unidad de 
  * Relación entre biodiversidad y funcionamiento de ecosistemas (BEF)
  * Almacenes de carbono en bosques tropicales
 
+Puedes consultar mi página personal [<span style="color:blue">aquí</span>](https://francisco-mora.netlify.app/) y
+[<span style="color:blue">mis publicaciones aquí</span>](https://www.researchgate.net/profile/Francisco_Mora5) [<span style="color:blue">y aquí</span>](https://scholar.google.com/citations?user=xdYwz2UAAAAJ&hl=es&oi=sra)
+
 
 

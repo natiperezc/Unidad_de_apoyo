@@ -16,7 +16,7 @@
 
 [[main]]
   name = "Integrantes"
-  url = "#people"
+  url = "#integrantes"
   weight = 30
 
 [[main]]

@@ -1,12 +1,12 @@
 ---
-title: 'Diagnostico de datos'
-event: Infomath - Seminar on computer tools for mathematician
-event_url: 'https://infomath.gitlab.io'
+title: 'Diagnóstico de datos'
+#event: Infomath - Seminar on computer tools for mathematician
+#event_url: 'https://infomath.gitlab.io'
 
 location: 'Laboratoire Jacques-Louis Lions, Sorbonne Université, Paris, France'
 
 abstract: ''
-summary: Small introduction to git where I try to convince you that you should use it.
+summary: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -18,12 +18,11 @@ all_day: true
 publishDate: "2019-01-10T16:00:00"
 
 authors: []
-#tags:
-#  - git
+tags:
+  - Datos
 
 #categories: 
 #  - other
-
 
 featured: true
 #projects:
@@ -37,5 +36,5 @@ math: true
 image:
   caption: ''
   focal_point: Smart
-
+  preview_only: true
 ---
