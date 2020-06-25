@@ -26,7 +26,7 @@ subtitle = "Artículos donde ha dado apoyo la unidad"
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "articulos"
+    category = ""
     publication_type = ""
     exclude_featured = false
   

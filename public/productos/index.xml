@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Productos on Unidad de Apoyo</title>
+    <title>Artículos on Unidad de Apoyo</title>
     <link>/productos/</link>
-    <description>Recent content in Productos on Unidad de Apoyo</description>
+    <description>Recent content in Artículos on Unidad de Apoyo</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
@@ -47,6 +47,16 @@
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/productos/gavito-2019/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The spatial analysis of biological interactions: morphological variation responding to the co‐occurrence of competitors and resources</title>
+      <link>/productos/monroy-sais-2020/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/productos/monroy-sais-2020/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>

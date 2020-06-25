@@ -1,5 +1,5 @@
 ---
-title: Productos
+title: Artículos
 
 # View.
 #   1 = List
