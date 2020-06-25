@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Unidad de Apoyo</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>management</title>
       <link>/tags/management/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial analysis</title>
+      <link>/tags/spatial-analysis/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatial-analysis/</guid>
       <description></description>
     </item>
     
@@ -93,15 +102,6 @@
     </item>
     
     <item>
-      <title>spatial analysis</title>
-      <link>/tags/spatial-analysis/</link>
-      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/spatial-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Regeneración natural</title>
       <link>/tags/regeneracion-natural/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -161,6 +161,15 @@
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/paisajes-tropicales-modificados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socioeconómicos</title>
+      <link>/tags/socioeconomicos/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/socioeconomicos/</guid>
       <description></description>
     </item>
     
