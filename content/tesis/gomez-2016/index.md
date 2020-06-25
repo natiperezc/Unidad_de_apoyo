@@ -21,7 +21,7 @@ tags:
 title: "Desempeño de tres especies de bosque seco en experimentos de tolerancia a heladas y nodricismo para su migración asistida en respuesta al cambio climático"
 url_code: ""
 url_dataset: ""
-url_pdf: "/Gómez Ruiz - 2016 - Desempeño de tres especies de bosque seco en experimentos de tolerancia a heladas y nodricismo para su migración asi.pdf"
+url_pdf: "/Gómez-2016.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

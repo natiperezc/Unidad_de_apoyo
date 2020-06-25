@@ -21,7 +21,7 @@ tags:
 title: "Riego y defoliación sobre especies leñosas forrajeras y las propiedades del suelo en el trópico seco de Michoacán"
 url_code: ""
 url_dataset: ""
-url_pdf: "/García Vargas - 2017 - Riego y defoliación sobre especies leñosas forrajeras y las propiedades del suelo en el trópico seco de Michoacán.pdf"
+url_pdf: "/García-2017.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

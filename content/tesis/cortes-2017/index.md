@@ -21,7 +21,7 @@ tags:
 title: "Oferta de servicios ecosistémicos e interacciones entre ellos en bosques tropicales secos secundarios"
 url_code: ""
 url_dataset: ""
-url_pdf: "/Cortés Calderón - 2017 - Oferta de servicios ecosistémicos e interacciones entre ellos en bosques tropicales secos secundarios.pdf"
+url_pdf: "/Cortés-2017.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

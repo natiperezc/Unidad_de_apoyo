@@ -21,7 +21,7 @@ tags:
 title: "Estrategias de manejo de saltamontes mediante hongos entomopatógenos en agroecosistemas de maíz de Erongarícuaro, Michoacán, México"
 url_code: ""
 url_dataset: ""
-url_pdf: "/Quesada Béjar - 2017 - Estrategias de manejo de saltamontes mediante hongos entomopatógenos en agroecosistemas de maíz de Erongarícuaro,.pdf"
+url_pdf: "/Quesada-2017.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

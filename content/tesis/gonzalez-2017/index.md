@@ -21,7 +21,7 @@ tags:
 title: "Hábitos alimentarios del gato montés (Lynx rufus) en el sur de Nuevo León y su relación con la ganadería"
 url_code: ""
 url_dataset: ""
-url_pdf: "/González González - 2017 - Hábitos alimentarios del gato montés (Lynx rufus) en el sur de Nuevo León y su relación con la ganadería.pdf"
+url_pdf: "/González-2017.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

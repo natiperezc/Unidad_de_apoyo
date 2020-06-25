@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.70.0" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Unidad de apoyo en estadística, modelación y manejo de datos">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Los bosques tropicales húmedos (BTH) son comunidades vegetales que presentan una alta diversidad y complejidad estructural, por lo que es un reto caracterizar sus atributos comunitarios de forma adecuada. Para ello, se han realizado censos en parcelas de tamaño variable en diferentes sitios, pero hasta ahora las áreas que se han censado en la Estación de Biología Tropical Los Tuxtlas (EBT), una reserva localizada en el estado de Veracruz (México), son pequeñas si se comparan a las establecidas en otras localidades del mundo. El único estudio en el que censó una hectárea se encuentra sobre un terreno relativamente plano, que es una condición poco frecuente en esta reserva de 640 ha. En este sentido, el objetivo del presente trabajo fue complementar el conocimiento de la variación asociada a los atributos comunitarios del BTH presente en la EBT, mediante la realización del censo de una parcela de 1 hectárea, ubicada sobre un terreno con topografía más compleja. En esta parcela se caracterizó y analizó la composición, la estructura y la diversidad de los árboles, arbustos, lianas y palmas con diámetros ≥ 1 cm. Los resultados de este trabajo se compararon con los de otros censos realizados en la EBT, tomando como referencia la misma superficie, que en la mayoría de los casos fue menor a la del presente censo. Se esperaba que las diferencias con dichos estudios fueran importantes debido a las condiciones contrastantes del relieve y la heterogeneidad que se ha reportado en otros BTH del mundo. También se comparó con censos de 1 ha en otras localidades del mundo, utilizando los mismos criterios de inclusión (diámetros mínimos y formas de crecimiento incluidas) de cada estudio. ">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/tesis/ek-2019/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#3f51b5">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Open+Sans|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.318c0d9adb16ec63229c19e7b985e541.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/tesis/ek-2019/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Unidad de Apoyo">
+  <meta property="og:url" content="/tesis/ek-2019/">
+  <meta property="og:title" content="Composición, estructura y diversidad de una hectárea de bosque tropical húmedo en la estación de biología tropical los Tuxtlas, Veracruz, México | Unidad de Apoyo">
+  <meta property="og:description" content="Los bosques tropicales húmedos (BTH) son comunidades vegetales que presentan una alta diversidad y complejidad estructural, por lo que es un reto caracterizar sus atributos comunitarios de forma adecuada. Para ello, se han realizado censos en parcelas de tamaño variable en diferentes sitios, pero hasta ahora las áreas que se han censado en la Estación de Biología Tropical Los Tuxtlas (EBT), una reserva localizada en el estado de Veracruz (México), son pequeñas si se comparan a las establecidas en otras localidades del mundo. El único estudio en el que censó una hectárea se encuentra sobre un terreno relativamente plano, que es una condición poco frecuente en esta reserva de 640 ha. En este sentido, el objetivo del presente trabajo fue complementar el conocimiento de la variación asociada a los atributos comunitarios del BTH presente en la EBT, mediante la realización del censo de una parcela de 1 hectárea, ubicada sobre un terreno con topografía más compleja. En esta parcela se caracterizó y analizó la composición, la estructura y la diversidad de los árboles, arbustos, lianas y palmas con diámetros ≥ 1 cm. Los resultados de este trabajo se compararon con los de otros censos realizados en la EBT, tomando como referencia la misma superficie, que en la mayoría de los casos fue menor a la del presente censo. Se esperaba que las diferencias con dichos estudios fueran importantes debido a las condiciones contrastantes del relieve y la heterogeneidad que se ha reportado en otros BTH del mundo. También se comparó con censos de 1 ha en otras localidades del mundo, utilizando los mismos criterios de inclusión (diámetros mínimos y formas de crecimiento incluidas) de cada estudio. "><meta property="og:image" content="/img/LogoUnidad_ED_color.png">
+  <meta property="twitter:image" content="/img/LogoUnidad_ED_color.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2019-07-01T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2019-07-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Composición, estructura y diversidad de una hectárea de bosque tropical húmedo en la estación de biología tropical los Tuxtlas, Veracruz, México | Unidad de Apoyo</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Unidad de Apoyo</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Inicio</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#ejes"><span>Ejes</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#integrantes"><span>Integrantes</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#cursos"><span>Cursos</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Productos</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/#productos"><span>Artículos</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/#tesis"><span>Tesis</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#recursos"><span>Recursos</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#ligas"><span>Ligas</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contacto"><span>Contacto</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article py-5" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    <div class="article-container py-3">
+      <h1 itemprop="name">Composición, estructura y diversidad de una hectárea de bosque tropical húmedo en la estación de biología tropical los Tuxtlas, Veracruz, México</h1>
+
+      
+
+      
+      
+
+
+
+<meta content="2019-07-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-07-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ivan-leonardo-ek-rodriguez/">Iván Leonardo Ek Rodriguez</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Jul 1, 2019</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/tesis/ek-2019/&amp;text=Composici%c3%b3n,%20estructura%20y%20diversidad%20de%20una%20hect%c3%a1rea%20de%20bosque%20tropical%20h%c3%bamedo%20en%20la%20estaci%c3%b3n%20de%20biolog%c3%ada%20tropical%20los%20Tuxtlas,%20Veracruz,%20M%c3%a9xico" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/tesis/ek-2019/&amp;t=Composici%c3%b3n,%20estructura%20y%20diversidad%20de%20una%20hect%c3%a1rea%20de%20bosque%20tropical%20h%c3%bamedo%20en%20la%20estaci%c3%b3n%20de%20biolog%c3%ada%20tropical%20los%20Tuxtlas,%20Veracruz,%20M%c3%a9xico" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Composici%c3%b3n,%20estructura%20y%20diversidad%20de%20una%20hect%c3%a1rea%20de%20bosque%20tropical%20h%c3%bamedo%20en%20la%20estaci%c3%b3n%20de%20biolog%c3%ada%20tropical%20los%20Tuxtlas,%20Veracruz,%20M%c3%a9xico&amp;body=/tesis/ek-2019/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/tesis/ek-2019/&amp;title=Composici%c3%b3n,%20estructura%20y%20diversidad%20de%20una%20hect%c3%a1rea%20de%20bosque%20tropical%20h%c3%bamedo%20en%20la%20estaci%c3%b3n%20de%20biolog%c3%ada%20tropical%20los%20Tuxtlas,%20Veracruz,%20M%c3%a9xico" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Composici%c3%b3n,%20estructura%20y%20diversidad%20de%20una%20hect%c3%a1rea%20de%20bosque%20tropical%20h%c3%bamedo%20en%20la%20estaci%c3%b3n%20de%20biolog%c3%ada%20tropical%20los%20Tuxtlas,%20Veracruz,%20M%c3%a9xico%20/tesis/ek-2019/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/tesis/ek-2019/&amp;title=Composici%c3%b3n,%20estructura%20y%20diversidad%20de%20una%20hect%c3%a1rea%20de%20bosque%20tropical%20h%c3%bamedo%20en%20la%20estaci%c3%b3n%20de%20biolog%c3%ada%20tropical%20los%20Tuxtlas,%20Veracruz,%20M%c3%a9xico" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/tesis/ek-2019/Ek-2019.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+      
+      
+    </div>
+  </div>
+</div>
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      <h3 id="maestría-en-ciencias-biológicas-iies---unam">Maestría en Ciencias Biológicas, IIES - UNAM</h3>
+<h2 id="resumen">Resumen</h2>
+<p>Los bosques tropicales húmedos (BTH) son comunidades vegetales que presentan una alta diversidad y complejidad estructural, por lo que es un reto caracterizar sus atributos comunitarios de forma adecuada. Para ello, se han realizado censos en parcelas de tamaño variable en diferentes sitios, pero hasta ahora las áreas que se han censado en la Estación de Biología Tropical Los Tuxtlas (EBT), una reserva localizada en el estado de Veracruz (México), son pequeñas si se comparan a las establecidas en otras localidades del mundo. El único estudio en el que censó una hectárea se encuentra sobre un terreno relativamente plano, que es una condición poco frecuente en esta reserva de 640 ha. En este sentido, el objetivo del presente trabajo fue complementar el conocimiento de la variación asociada a los atributos comunitarios del BTH presente en la EBT, mediante la realización del censo de una parcela de 1 hectárea, ubicada sobre un terreno con topografía más compleja. En esta parcela se caracterizó y analizó la composición, la estructura y la diversidad de los árboles, arbustos, lianas y palmas con diámetros ≥ 1 cm. Los resultados de este trabajo se compararon con los de otros censos realizados en la EBT, tomando como referencia la misma superficie, que en la mayoría de los casos fue menor a la del presente censo. Se esperaba que las diferencias con dichos estudios fueran importantes debido a las condiciones contrastantes del relieve y la heterogeneidad que se ha reportado en otros BTH del mundo. También se comparó con censos de 1 ha en otras localidades del mundo, utilizando los mismos criterios de inclusión (diámetros mínimos y formas de crecimiento incluidas) de cada estudio.</p>
+<p>Se registró un total de 189 especies pertenecientes a 137 géneros y 58 familias. Fabaceae (14 especies) fue la familia con el mayor número de especies, seguida de Bignoniaceae (10) y Piperaceae (10) mientras que los géneros que destacaron al respecto fueron Piper (Piperaceae, 10 especies), Chamaedorea (Arecaceae, 5) e Inga (Fabaceae, 5). Quince familias englobaron el 74 % del valor de importancia relativa de familias (VIRF), que en conjunto incluyeron el 86 % de los individuos, el 79 % del área basal y el 57 % de la riqueza. Las tres familias con mayor VIRF (Arecaceae, Moraceae y Meliaceae) tuvieron una especie que las representa en el mismo orden con respecto al valor de importancia relativa (VIR); estas son Astrocaryum mexicanum (16.3 %), Pseudolmedia glabrata (4.6 %) y Guarea glabra (4.0 %); estas tres especies, en conjunto con otras siete, sumaron el 44 % del VIR. De los 4375 individuos censados, el 90 % tuvieron diámetros &lt;10 cm y el 53 % pertenecieron sólo a cinco especies, de las cuales la más abundante fue A. mexicanum (34 % del total). El área basal total fue de 43.35 m2 y el 31 % de esta variable se concentró en los individuos con diámetros ≥ 60 cm. La diversidad fue relativamente baja para todos los órdenes (0D = 189, 1D = 29.35 y 2D = 7.8), si se compara con la de otros sitios en el mundo en los que se ha censado la misma área. En particular, 1D y 2D presentaron valores bajos debido a la fuerte dominancia de Arecaceae que se presentó en los individuos menores de 10 m de altura, aunque fue en esta misma categoría en la que se registraron la mayoría de las especies arbóreas (53 % del total). Los árboles y las lianas aportaron un porcentaje alto al contingente florístico total de la hectárea (69 % y 22 %, respectivamente), pero los primeros tuvieron un mayor número efectivo de especies raras (89) y su equitatividad también fue menor (FE = 0.1). Únicamente el 9 % de las especies restantes fueron arbustos (9) y palmas (7).</p>
+<p>Este estudio complementa a los realizados anteriormente en la EBT y permite tener una medida de la variación de los atributos evaluados. La composición de especies y la estructura vertical presentaron mayores diferencias con lo descrito previamente, mientras que la composición de familias, la densidad de individuos, el área basal y el número de especies por hectárea presentaron una fuerte similitud con lo descrito, tanto en el área de estudio, como en otros BTH del mundo. Parte de la similitud con estudios previos en el área puede atribuirse a que la parcela estudiada se ubicó en la misma variante de vegetación que los demás, a pesar de presentar un relieve más complejo. Hasta la fecha, no existen estudios en los que se hayan descrito los atributos comunitarios del BTH que se desarrolla en las partes con mayor altitud o sobre suelos jóvenes de la EBT, a pesar de que se han reconocido como variantes de vegetación dadas sus diferencias fisionómicas. Por lo tanto, si los atributos evaluados contrastan cuando se comparan sitios cercanos es posible especular que estas diferencias serán mayores en otras variantes, lo que podría evaluarse únicamente en la medida en que se realicen nuevos estudios.</p>
+
+    </div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/comunidades/">Comunidades</a>
+  
+</div>
+
+
+
+    
+      
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/ivan-leonardo-ek-rodriguez/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+      
+      
+      <div class="article-widget">
+        <div class="hr-light"></div>
+        <h3>Related</h3>
+        <ul>
+          
+          <li><a href="/tesis/cervantes-2017/">Ensamblajes de anfibios y reptiles en cacaotales de sombra en la selva Lacandona</a></li>
+          
+        </ul>
+      </div>
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academia.min.e4fc229c2f28284fc2dfa5b66a52b765.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p class="powered-by">
+          <a href="/privacy/">Privacy Policy</a>
+        </p>
+        
+        <p>
+          
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right">
+          
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

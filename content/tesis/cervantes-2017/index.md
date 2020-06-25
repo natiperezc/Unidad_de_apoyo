@@ -21,7 +21,7 @@ tags:
 title: "Ensamblajes de anfibios y reptiles en cacaotales de sombra en la selva Lacandona"
 url_code: ""
 url_dataset: ""
-url_pdf: "/Cervantes López - 2017 - ENSAMBLES DE ANFIBIOS Y REPTILES EN CACAOTALES DE SOMBRA EN LA SELVA LACANDONA.pdf"
+url_pdf: "/Cervantes-2017.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

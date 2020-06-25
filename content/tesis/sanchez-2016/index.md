@@ -22,7 +22,7 @@ tags:
 title: "Uso de servicios ecosistémicos en el bosque tropical seco secundario de la región Chamela-Cuixmala, Jalisco, México"
 url_code: ""
 url_dataset: ""
-url_pdf: "/Sánchez Martínez - 2016 - Uso de servicios ecosistémicos en el bosque tropical seco secundario de la región Chamela-Cuixmala, Jalisco, M.pdf"
+url_pdf: "/Sánchez-2016.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

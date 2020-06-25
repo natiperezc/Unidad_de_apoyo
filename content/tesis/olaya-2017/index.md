@@ -21,7 +21,7 @@ tags:
 title: "Una aproximación a la reducción de la contaminación intradomiciliaria a través de la mejora de la habitabilidad básica"
 url_code: ""
 url_dataset: ""
-url_pdf: "/Olaya García - 2017 - Una aproximación a la reducción de la contaminación intradomiciliaria a través de la mejora de la habitabilidad bá.pdf"
+url_pdf: "/Olaya-2017.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

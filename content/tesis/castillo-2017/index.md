@@ -24,7 +24,7 @@ tags:
 title: "Sinergias y compensaciones entre servicios ecosistémicos múltiples: el caso de la ganadería y las plantas útiles en bosques de encino manejados para carbón vegetal"
 url_code: ""
 url_dataset: ""
-url_pdf: "/Castillo Hernández - 2017 - Sinergias y compensaciones entre servicios ecosistémicos múltiples el caso de la ganadería y las plantas úti.pdf"
+url_pdf: "/Castillo-2017.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

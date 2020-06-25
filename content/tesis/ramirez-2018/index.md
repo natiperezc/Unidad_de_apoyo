@@ -21,7 +21,7 @@ tags:
 title: "Redes de interacción planta-herbívoro en paisajes tropicales modificados por actividades humanas"
 url_code: ""
 url_dataset: ""
-url_pdf: "/Ramírez García - 2018 - Redes de interacción planta-herbívoro en paisajes tropicales modificados por actividades humanas.pdf"
+url_pdf: "/Ramírez-2018.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
