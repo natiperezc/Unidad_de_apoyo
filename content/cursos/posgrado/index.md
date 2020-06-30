@@ -31,8 +31,6 @@ Participamos en asignaturas impartidas en el posgrado de *Ciencias Biológicas y
 Esta asignatura es impartida en el posgrado de ciencias biológicas. El objetivo de este curso es introducir al estudiante en el universo de la modelación estadística fundamentada en el entendimiento de los diseños
 experimentales y de muestreo más comunes en el área de la ecología.
 
- ![](biologicas.png)
-
  [<span style="color:blue">Puedes consultar el programa del curso aquí</span>](http://pcbiol.posgrado.unam.mx/programas_cursos/2020-1/dise%C3%B1o_experimental_y_modelado_estadistico_en_ecologia.pdf)
 
 ### 2. Introducción al Lenguaje R

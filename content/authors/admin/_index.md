@@ -28,7 +28,7 @@ organizations:
 - name: 
   url: ""
 role: 
-social:
+#social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'
@@ -46,7 +46,7 @@ user_groups:
 #- Researchers
 #- Visitors
 ---
-Tiene por objetivo fortalecer la capacidad de la comunidad del IIES para el manejo, análisis y síntesis
+La unidad tiene por objetivo fortalecer la capacidad de la comunidad del [Instituto de Investigaciones en Ecosistemas y Sustentabilidad](https://www.iies.unam.mx/) (IIES) para el manejo, análisis y síntesis
 de información, con el fin de contribuir al mantenimiento de los altos niveles de productividad 
 académica y de formación de recursos humanos que han caracterizado al instituto. 
 

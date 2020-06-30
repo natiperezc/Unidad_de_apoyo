@@ -12,7 +12,7 @@ image:
 lastmod: "2019-04-17T00:00:00Z"
 projects: []
 subtitle: 'Técnico de proyecto'
-summary: Técnico de proyecto.
+summary: Técnico de proyecto
 tags:
 - academia
 title: 'Nathalia Pérez'
