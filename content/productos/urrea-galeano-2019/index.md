@@ -21,7 +21,7 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
-summary: El objetivo de nuestro estudio fue evaluar los efectos de la actividad de los escarabajos peloteros en la distribución espacial de las semillas y las plántulas, y en la probabilidad de establecimiento de las mismas.
+summary: 
 tags:
 - 
 categories: 

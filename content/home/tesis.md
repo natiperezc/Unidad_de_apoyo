@@ -36,7 +36,7 @@ subtitle = "Tesis donde ha dado apoyo la unidad"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,5 +67,5 @@ subtitle = "Tesis donde ha dado apoyo la unidad"
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/tesis/_index.md" >}}).
+Quickly discover relevant content by [filtering tesis]({{< ref "/tesis/_index.md" >}}).
 {{% /alert %}}

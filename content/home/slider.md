@@ -24,7 +24,7 @@ height = "250px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#404040"  # An HTML color value.
   overlay_img = "enes.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -53,7 +53,7 @@ height = "250px"
 
   overlay_color = "#404040"  # An HTML color value.
   overlay_img = "nuevo4.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   cta_label = "Ver aquí"
   cta_url = "https://www.tandfonline.com/doi/full/10.1080/26395916.2020.1767213?scroll=top&needAccess=true"

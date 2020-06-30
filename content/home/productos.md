@@ -67,5 +67,5 @@ subtitle = "Artículos donde ha dado apoyo la unidad"
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/productos/_index.md" >}}).
+Quickly discover relevant content by [filtering productos]({{< ref "/productos/_index.md" >}}).
 {{% /alert %}}
