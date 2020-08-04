@@ -6,7 +6,7 @@ date: "2020-06-24T00:00:00Z"
 draft: false
 featured: false
 image:
-  #caption: 'Image credit: []()'
+  #caption: ''
   focal_point: "Center"
   preview_only: true
 projects: []
@@ -31,12 +31,13 @@ social:
   link: https://orcid.org/0000-0003-0390-0189
 ---
 ![](pacho.jpg)
-Me interesa el estudio de la diversidad biológica y su relación con las funciones que desarrollan los bosques tropicales. Disfruto en particular identificar plantas en campo, así como procesar y analizar información empleando modelos estadísticos. Es esta última actividad la que constituye el centro de mi trabajo en el IIES. Cuento con experiencia docente en Estadística para Ciencias Ambientales y Biológicas al nivel licenciatura y posgrado. Mi principal herramienta de trabajo es el lenguaje R. He participado en el desarrollo de proyectos de investigación y de docencia asociados al IIES y a la Escuela Nacional de Estudios Superiores (UNAM, campus Morelia).
+Me interesa la aplicación y el desarrollo de modelos estadísticos para el análisis de sistemas ecológicos, particularmente de los bosques tropicales, así como la enseñanza de métodos y herramientas para el análisis de datos. 
 
 En la actualidad me desempeño como Técnico Académico a cargo de la Unidad de Apoyo en Estadística, Modelación y Manejo de Datos del Instituto de Investigaciones en Ecosistemas y Sustentabilidad de la UNAM.
+Cuento con experiencia docente en Estadística para Ciencias Ambientales y Biológicas al nivel licenciatura y posgrado. Mi principal herramienta de trabajo es el lenguaje R. He participado en el desarrollo de proyectos de investigación y de docencia asociados al IIES y a la Escuela Nacional de Estudios Superiores (UNAM, campus Morelia).
 
 **CATEGORÍA UNAM**
- 	Técnico académico titular A
+Técnico académico titular A
 
 ### 1.  Intereses
  * Ecología de bosques tropicales

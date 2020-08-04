@@ -6,15 +6,28 @@
     <description>Recent content in Cursos on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/cursos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Escuela de Métodos</title>
+      <link>/cursos/escuela-de-metodos/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cursos/escuela-de-metodos/</guid>
+      <description>&lt;p&gt;El objetivo de la escuela de métodos es proveer métodos y técnicas actualizadas para el análisis cuantitativo de datos y el análisis cualitativo de la información. Para ello se imparten talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. En ellos se hace énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
+Producción de materiales didácticos sobre los métodos presentados en los talleres, que faciliten su implementación en docencia e investigación.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.iies.unam.mx/EscuelaMetodos/&#34;&gt;&lt;!-- raw HTML omitted --&gt;Visitanos en nuestro sitio web&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;
+&lt;img src=&#34;escuela.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Licenciatura</title>
       <link>/cursos/licenciatura/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/cursos/licenciatura/</guid>
       <description>&lt;p&gt;Participamos en asignaturas impartidas en las licenciaturas de ciencias ambientales y ecología de la &lt;em&gt;Escuela Nacional de Estudios Superiores - Unidad Morelia.&lt;/em&gt;&lt;/p&gt;
@@ -33,20 +46,6 @@ hipótesis para la explicación de dichas realidades.&lt;/p&gt;
 &lt;p&gt;Asignatura impartida en la Licenciatura de Ciencias Ambientales. El objetivo general de esta asignatura es que el estudiante conozca y comprenda los conceptos básicos de estadística 
 descriptiva de conjuntos de datos, que incluyen medidas de tendencia central, de dispersión, gráficos básicos, coeficientes de correlación y regresión lineal.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;ambientales.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Escuela de Métodos</title>
-      <link>/cursos/escuela-de-metodos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cursos/escuela-de-metodos/</guid>
-      <description>&lt;p&gt;El objetivo de la escuela de métodos es proveer métodos y técnicas actualizadas para el análisis cuantitativo de datos y el análisis cualitativo de la información.&lt;/p&gt;
-&lt;p&gt;Para ello se imparten talleres de capacitación en métodos y herramientas específicas, impartidos por expertos nacionales e internacionales. En ellos se hace énfasis en el uso de herramientas de acceso libre, particularmente del lenguaje R.
-Producción de materiales didácticos sobre los métodos presentados en los talleres, que faciliten su implementación en docencia e investigación.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.iies.unam.mx/EscuelaMetodos/&#34;&gt;&lt;!-- raw HTML omitted --&gt;Visitanos en nuestro sitio web&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;
-&lt;img src=&#34;escuela.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

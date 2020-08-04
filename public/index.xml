@@ -30,20 +30,20 @@
     </item>
     
     <item>
+      <title>Cursos</title>
+      <link>/cursos/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cursos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artículos</title>
       <link>/productos/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/productos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cursos</title>
-      <link>/cursos/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/cursos/</guid>
       <description></description>
     </item>
     

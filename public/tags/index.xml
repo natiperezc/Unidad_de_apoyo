@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Escuela de Métodos</title>
+      <link>/tags/escuela-de-metodos/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/escuela-de-metodos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>management</title>
@@ -30,20 +39,29 @@
     </item>
     
     <item>
-      <title>Licenciatura</title>
-      <link>/tags/licenciatura/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/licenciatura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>viernes de codigo</title>
       <link>/tags/viernes-de-codigo/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/viernes-de-codigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tecnico de proyecto</title>
+      <link>/tags/tecnico-de-proyecto/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tecnico-de-proyecto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Licenciatura</title>
+      <link>/tags/licenciatura/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/licenciatura/</guid>
       <description></description>
     </item>
     
@@ -273,15 +291,6 @@
     </item>
     
     <item>
-      <title>Escuela de Métodos</title>
-      <link>/tags/escuela-de-metodos/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/escuela-de-metodos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Francisco</title>
       <link>/tags/francisco/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -314,15 +323,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/rstudio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>academia</title>
-      <link>/tags/academia/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/academia/</guid>
       <description></description>
     </item>
     
