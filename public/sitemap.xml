@@ -129,7 +129,27 @@
   
   <url>
     <loc>/ligas/</loc>
-    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/viernes-de-codigo/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ligas/viernes-de-codigo/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/escuela-de-metodos/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ligas/escuela-de-metodos/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -159,11 +179,6 @@
   
   <url>
     <loc>/cursos/</loc>
-    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/escuela-de-metodos/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -249,16 +264,6 @@
   
   <url>
     <loc>/tags/iies/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/viernes-de-codigo/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ligas/viernes-de-codigo/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -815,11 +820,6 @@
   <url>
     <loc>/authors/tabarelli-marcelo/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ligas/escuela-de-metodos/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -6,10 +6,28 @@
     <description>Recent content in Ligas on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/ligas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Viernes de código</title>
+      <link>/ligas/viernes-de-codigo/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ligas/viernes-de-codigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Escuela de Métodos</title>
+      <link>/ligas/escuela-de-metodos/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ligas/escuela-de-metodos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R Studio</title>
@@ -35,24 +53,6 @@
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/ligas/iies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Viernes de código</title>
-      <link>/ligas/viernes-de-codigo/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/ligas/viernes-de-codigo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Escuela de Métodos</title>
-      <link>/ligas/escuela-de-metodos/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/ligas/escuela-de-metodos/</guid>
       <description></description>
     </item>
     
