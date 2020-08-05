@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Productos</title>
+      <link>/recursos/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/recursos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>/integrantes/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
@@ -62,15 +71,6 @@
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productos</title>
-      <link>/recursos/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/recursos/</guid>
       <description></description>
     </item>
     

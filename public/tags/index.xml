@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modelos</title>
+      <link>/tags/modelos/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/modelos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regresión lineal</title>
+      <link>/tags/regresion-lineal/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regresion-lineal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Escuela de Métodos</title>
@@ -62,33 +89,6 @@
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/licenciatura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelos</title>
-      <link>/tags/modelos/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/modelos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regresión lineal</title>
-      <link>/tags/regresion-lineal/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/regresion-lineal/</guid>
       <description></description>
     </item>
     

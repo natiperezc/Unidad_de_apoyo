@@ -6,15 +6,24 @@
     <description>Recent content in Productos on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/recursos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Ajuste de modelos lineales v2</title>
+      <link>/recursos/ajuste-de-modelos-lineales/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/recursos/ajuste-de-modelos-lineales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ajuste de modelos lineales</title>
       <link>/recursos/ajuste-modelos-lineales1/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/recursos/ajuste-modelos-lineales1/</guid>
       <description></description>
@@ -44,15 +53,6 @@
       <pubDate>Thu, 10 Jan 2019 16:00:00 +0000</pubDate>
       
       <guid>/recursos/diagnostico-de-datos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ajuste de modelos lineales</title>
-      <link>/recursos/ajuste-de-modelos-lineales/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/recursos/ajuste-de-modelos-lineales/</guid>
       <description></description>
     </item>
     

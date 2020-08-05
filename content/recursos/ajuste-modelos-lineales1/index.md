@@ -4,7 +4,7 @@ summary: "Guia para el plantamiento y ajuste de modelos lineales: explicación y
 tags:
 - Modelos
 - Regresión lineal
-date: "2020-01-27T00:00:00Z"
+date: "2020-08-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://rpubs.com/ncperezc/Teoria_Regresion_lineal_simple
