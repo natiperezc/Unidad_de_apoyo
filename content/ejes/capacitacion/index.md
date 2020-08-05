@@ -45,7 +45,7 @@ En particular, la unidad ofrece:
 
 3. Talleres cortos de la [Escuela de Métodos](/cursos/escuela-de-metodos)
 
-4. Sesiones de discusión y apoyo conjunto a través del proyecto [VieRnes de código](/proyectos/viernes-de-codigo)
+4. Sesiones de discusión y apoyo conjunto a través del proyecto [VieRnes de código](/ligas/viernes-de-codigo)
 
 Para ver una lista completa de los cursos ofrecidos de [(click aquí)](/cursos/).
 
