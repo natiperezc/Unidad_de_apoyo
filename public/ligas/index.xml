@@ -6,10 +6,37 @@
     <description>Recent content in Ligas on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/ligas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R Studio</title>
+      <link>/ligas/rstudio/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ligas/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/ligas/r/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ligas/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IIES</title>
+      <link>/ligas/iies/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ligas/iies/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Viernes de código</title>
@@ -39,38 +66,11 @@
     </item>
     
     <item>
-      <title>IIES</title>
-      <link>/ligas/iies/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/ligas/iies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nathalia Pérez</title>
       <link>/ligas/nathalia/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/ligas/nathalia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/ligas/r/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/ligas/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Studio</title>
-      <link>/ligas/rstudio/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/ligas/rstudio/</guid>
       <description></description>
     </item>
     

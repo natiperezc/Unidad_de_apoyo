@@ -7,12 +7,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Artículos"
+title = "Artículos Publicados"
 subtitle = "Artículos donde ha dado apoyo la unidad"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "productos"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 3
@@ -67,5 +67,5 @@ subtitle = "Artículos donde ha dado apoyo la unidad"
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering productos]({{< ref "/productos/_index.md" >}}).
+Quickly discover relevant content by [filtering productos]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}

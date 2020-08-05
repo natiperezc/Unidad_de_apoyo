@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>management</title>
+      <link>/tags/management/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial analysis</title>
+      <link>/tags/spatial-analysis/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatial-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modelos</title>
@@ -39,6 +57,15 @@
     </item>
     
     <item>
+      <title>Rstudio</title>
+      <link>/tags/rstudio/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Escuela de Métodos</title>
       <link>/tags/escuela-de-metodos/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
@@ -48,20 +75,11 @@
     </item>
     
     <item>
-      <title>management</title>
-      <link>/tags/management/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <title>iies</title>
+      <link>/tags/iies/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spatial analysis</title>
-      <link>/tags/spatial-analysis/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/spatial-analysis/</guid>
+      <guid>/tags/iies/</guid>
       <description></description>
     </item>
     
@@ -300,29 +318,11 @@
     </item>
     
     <item>
-      <title>iies</title>
-      <link>/tags/iies/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/iies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nathalia</title>
       <link>/tags/nathalia/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/nathalia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rstudio</title>
-      <link>/tags/rstudio/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rstudio/</guid>
       <description></description>
     </item>
     

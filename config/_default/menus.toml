@@ -25,14 +25,14 @@
   weight = 40
 
 [[main]]
-  name = "Productos"
-  url = "#productos"
+  name = "tablero"
+  url = "#publications"
   weight = 50
 
 [[main]]
   parent = "Productos"
   name = "Artículos"
-  url = "#productos"
+  url = "#publications"
   weight = 50
 
 [[main]]
