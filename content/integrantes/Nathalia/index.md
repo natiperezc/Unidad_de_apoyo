@@ -17,7 +17,7 @@ tags:
 - Tecnico de proyecto
 title: 'Nathalia Pérez'
 ---
-![](Nata.jpg)
+![](Nata1.jpg)
 Soy maestra en ciencias del Instituto de Investigaciones en Ecosistemas y Sustentabilidad (IIES) y actualmente apoyo actividades de docencia, manejo de datos y difusión de la información en la Unidad de Apoyo en Estadística y Manejo de Datos de IIES.
 
 Me interesa investigar los diferentes factores que afectan la regeneración de los bosques tropicales secundarios. En la actualidad investigo el efecto del paisaje y el manejo agropecuario sobre la sucesión secundaria en paisajes antropizados. Tengo un especial interes en el estudio de factores a diferentes escalas espaciales y temporales.
@@ -28,5 +28,5 @@ Me interesa investigar los diferentes factores que afectan la regeneración de l
  * Ecología y manejo del paisaje
 
 Puedes consultar mi página personal [<span style="color:blue">aquí</span>](https://nathaliaperez.netlify.app/) y
-[<span style="color:blue">mis publicaciones aquí</span>](https://www.researchgate.net/profile/Nathalia_Perez_Cardenas) [<span style="color:blue">.
+[<span style="color:blue">mis publicaciones aquí</span>](https://www.researchgate.net/profile/Nathalia_Perez_Cardenas)<span style="color:blue">.
 

@@ -67,17 +67,29 @@ de discusión dirigidos a fortalecer las capacidades de la comunidad académica 
 análisis de datos.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;escuela-ejemplo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;En particular, la unidad ofrece:&lt;/p&gt;
-&lt;h1 id=&#34;1-cursos-en-las-licenciaturas-de-ecología-y-ciencias-ambientales-de-la-enes-morelia&#34;&gt;1. Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt; + Ecología de Comunidades: métodos y Herramientas
- + Modelación Estadística
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;2-cursos-del-posgrado-en-ciencias-biológicas-de-la-unam&#34;&gt;2. Cursos del posgrado en Ciencias Biológicas de la UNAM&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt; + Introducción al lenguaje R
- + Diseño experimental y modelado estadístico en ecología
- + Métodos multivariados
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;3-talleres-cortos-de-la-escuela-de-métodoscursosescuela-de-metodos&#34;&gt;3. Talleres cortos de la &lt;a href=&#34;/cursos/escuela-de-metodos&#34;&gt;Escuela de Métodos&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;4-sesiones-de-discusión-y-apoyo-conjunto-a-través-del-proyecto-viernes-de-códigoproyectosviernes-de-codigo&#34;&gt;4. Sesiones de discusión y apoyo conjunto a través del proyecto &lt;a href=&#34;/proyectos/viernes-de-codigo&#34;&gt;VieRnes de código&lt;/a&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Cursos en las licenciaturas de Ecología y Ciencias Ambientales de la ENES Morelia&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ecología de Comunidades: métodos y Herramientas&lt;/li&gt;
+&lt;li&gt;Modelación Estadística&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cursos del posgrado en Ciencias Biológicas de la UNAM&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción al lenguaje R&lt;/li&gt;
+&lt;li&gt;Diseño experimental y modelado estadístico en ecología&lt;/li&gt;
+&lt;li&gt;Métodos multivariados&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Talleres cortos de la &lt;a href=&#34;/cursos/escuela-de-metodos&#34;&gt;Escuela de Métodos&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sesiones de discusión y apoyo conjunto a través del proyecto &lt;a href=&#34;/proyectos/viernes-de-codigo&#34;&gt;VieRnes de código&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;Para ver una lista completa de los cursos ofrecidos de &lt;a href=&#34;/cursos/&#34;&gt;(click aquí)&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
