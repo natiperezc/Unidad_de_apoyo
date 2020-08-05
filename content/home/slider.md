@@ -48,7 +48,7 @@ height = "250px"
 
 [[item]]
   title = ""
-  content = "Última Publicación: Unraveling households’ natural resource management strategies: a case study in Jalisco, Mexico."
+  content = "Última Publicación: Economic valuation of ecosystem services from secondary tropical forests: trade-offs and implications for policy making."
   align = "right"
 
   overlay_color = "#404040"  # An HTML color value.
@@ -56,5 +56,5 @@ height = "250px"
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   cta_label = "Ver aquí"
-  cta_url = "https://www.tandfonline.com/doi/full/10.1080/26395916.2020.1767213?scroll=top&needAccess=true"
+  cta_url = "https://www.sciencedirect.com/science/article/pii/S037811272031063X"
 +++
