@@ -6,7 +6,7 @@ authors:
 - Mauricio Sánchez-Martínez
 - FelipeArreola
 - Patricia Balvanera
-date: "2020-10-01T00:00:00Z"
+date: "2020-08-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.foreco.2020.118294"
 featured: false
 image:
@@ -18,7 +18,7 @@ publication: '*Forest Ecology and Management, 473(1)*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-10-01T00:00:00Z"
+publishDate: "2020-08-01T00:00:00Z"
 #slides: example
 summary: 
 tags:

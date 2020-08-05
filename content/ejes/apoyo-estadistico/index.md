@@ -38,6 +38,6 @@ La unidad da asesoría a estudiantes y académicos del [IIES](https://www.iies.u
 + La visualización adecuada de la información.
 
 
-Para solicitar una asesoría por favor envía una solicitud por [correo electrónico](/contact/).
+Para solicitar una asesoría por favor envía una solicitud por [correo electrónico](/contacto/).
 
 </center>
