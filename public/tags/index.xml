@@ -23,9 +23,36 @@
     <item>
       <title>management</title>
       <link>/tags/management/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelos</title>
+      <link>/tags/modelos/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/modelos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regresión lineal</title>
+      <link>/tags/regresion-lineal/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regresion-lineal/</guid>
       <description></description>
     </item>
     
@@ -39,38 +66,20 @@
     </item>
     
     <item>
+      <title>VieRnes</title>
+      <link>/tags/viernes/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/viernes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>viernes de codigo</title>
       <link>/tags/viernes-de-codigo/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/viernes-de-codigo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelos</title>
-      <link>/tags/modelos/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/modelos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regresión lineal</title>
-      <link>/tags/regresion-lineal/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/regresion-lineal/</guid>
       <description></description>
     </item>
     
@@ -152,15 +161,6 @@
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/abono/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Datos</title>
-      <link>/tags/datos/</link>
-      <pubDate>Thu, 10 Jan 2019 16:00:00 +0000</pubDate>
-      
-      <guid>/tags/datos/</guid>
       <description></description>
     </item>
     
@@ -309,6 +309,15 @@
     </item>
     
     <item>
+      <title>2ndFOR</title>
+      <link>/tags/2ndfor/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/2ndfor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Francisco</title>
       <link>/tags/francisco/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -323,6 +332,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/nathalia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red MexLTER</title>
+      <link>/tags/red-mexlter/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/red-mexlter/</guid>
       <description></description>
     </item>
     

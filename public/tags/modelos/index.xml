@@ -6,7 +6,7 @@
     <description>Recent content in Modelos on Estadística, modelación y manejo de datos</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/modelos/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Ajuste de modelos lineales</title>
       <link>/recursos/ajuste-modelos-lineales/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/recursos/ajuste-modelos-lineales/</guid>
       <description></description>
@@ -30,15 +30,6 @@
 &lt;p&gt;Los Procesos de Remoción en Masa (PRM) constituyen una amenaza no solo para la propiedad e infraestructura, sino también para las personas que viven en zonas propensas a estos fenómenos, causando un número considerable de pérdidas humanas y materiales en diferentes partes del mundo, incluyendo México. A través del análisis y mapeo de susceptibilidad a PRM, se puede comprender la distribución espacial de la probabilidad a que ocurran estos eventos y así prevenir y mitigar los efectos que pueden tener sobre la población. Por tanto, el objetivo de la presente investigación es evaluar el desempeño de los métodos de regresión logística, razón de verosimilitud y pesos de evidencia en la predicción de la susceptibilidad a PRM. La distribución espacial de los PRM se identificó mediante imágenes de Google Earth y verificación en campo. Se escogió de forma aleatoria el 80 % del inventario para modelar y el 20 % restante para validar los modelos. Para el análisis inicial se eligieron 10 factores condicionantes: elevación, ángulo de la pendiente, orientación de la ladera, geometría de laderas, litología, distancia a fallas y fracturas, distancia a vías de comunicación, distancia a corrientes de agua, tipos de suelos y cubierta y usos del suelo. La validación de los modelos mediante el método de área bajo la curva (AUC) de las curvas de tasa de predicción, mostró que el mapa de susceptibilidad a PRM generado por el modelo de regresión logística tiene un mayor poder predictivo, seguido por el modelo razón de verosimilitud y
 el modelo pesos de evidencia. Los factores condicionantes con mejor capacidad de predicción fueron la litología, ángulo de la pendiente, orientación de las laderas, tipos de suelos y cubierta y uso del suelo.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Ajuste modelos no lineales</title>
-      <link>/recursos/ajuste-modelos-no-lineales/</link>
-      <pubDate>Fri, 10 Jan 2020 16:00:00 +0000</pubDate>
-      
-      <guid>/recursos/ajuste-modelos-no-lineales/</guid>
-      <description></description>
     </item>
     
     <item>

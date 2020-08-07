@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VieRnes on Estadística, modelación y manejo de datos</title>
+    <link>/tags/viernes/</link>
+    <description>Recent content in VieRnes on Estadística, modelación y manejo de datos</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/viernes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Viernes de Código</title>
+      <link>/recursos/analisis-multivariado/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/recursos/analisis-multivariado/</guid>
+      <description>&lt;p&gt;El lenguaje R se ha convertido en la &lt;em&gt;lingua franca&lt;/em&gt; para el desarrollo del análisis de datos de nuestras investigaciones. Sin embargo, muchas veces su uso constituye un reto, tomándonos horas o hasta días encontrar la solución a pequeños (o grandes) problemas en su implementación.&lt;/p&gt;
+&lt;p&gt;Con el fin de aportar un mecanismo que contribuya a reducir el tiempo y el esfuerzo requerido para el uso del lenguaje R, desde la Unidad de Apoyo en Estadística, Modelación y Manejo de Datos del IIEs creamos los &lt;strong&gt;vieRnes de código&lt;/strong&gt;: un espacio en el cual los miembros de la comunidad IIES podrán intercambiar soluciones y propuestas respecto a dudas y problemas relacionados con la ejecución de código de R.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

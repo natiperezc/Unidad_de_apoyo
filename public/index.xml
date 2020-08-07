@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Artículos</title>
+      <link>/publication/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cursos</title>
       <link>/cursos/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
@@ -30,11 +39,11 @@
     </item>
     
     <item>
-      <title>Artículos</title>
-      <link>/publication/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <title>Recursos</title>
+      <link>/recursos/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>/recursos/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/ligas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productos</title>
-      <link>/recursos/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/recursos/</guid>
       <description></description>
     </item>
     
