@@ -51,8 +51,8 @@ Técnico académico titular A
  * Relación entre biodiversidad y funcionamiento de ecosistemas (BEF)
  * Almacenes de carbono en bosques tropicales
 
-Puedes consultar mi página personal [<span style="color:blue">aquí</span>](https://francisco-mora.netlify.app/), así como el listado de mis publicaciones en 
-[<span style="color:blue">ResearchGate</span>](https://www.researchgate.net/profile/Francisco_Mora5) y [<span style="color:blue">GoogleScholar</span>](https://scholar.google.com/citations?user=xdYwz2UAAAAJ&hl=es&oi=sra)
+Puedes consultar mi página personal [<span style="color:blue">aquí</span>](https://francisco-mora.netlify.app/){target="_blank"}, así como el listado de mis publicaciones en 
+[<span style="color:blue">ResearchGate</span>](https://www.researchgate.net/profile/Francisco_Mora5){target="_blank"} y [<span style="color:blue">GoogleScholar</span>](https://scholar.google.com/citations?user=xdYwz2UAAAAJ&hl=es&oi=sra){target="_blank"}
 
 
 

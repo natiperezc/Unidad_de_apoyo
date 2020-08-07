@@ -1,6 +1,6 @@
 ---
 title: Posgrado
-#date: "2020-04-27T00:00:00Z"
+#date: "2020-08-07T00:00:00Z"
 external_link: null
 
 # Featured image

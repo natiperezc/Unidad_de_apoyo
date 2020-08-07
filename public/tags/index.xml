@@ -21,33 +21,6 @@
     </item>
     
     <item>
-      <title>Modelos</title>
-      <link>/tags/modelos/</link>
-      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/modelos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regresión lineal</title>
-      <link>/tags/regresion-lineal/</link>
-      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/regresion-lineal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>management</title>
       <link>/tags/management/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
@@ -71,6 +44,33 @@
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/viernes-de-codigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelos</title>
+      <link>/tags/modelos/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/modelos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regresión lineal</title>
+      <link>/tags/regresion-lineal/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regresion-lineal/</guid>
       <description></description>
     </item>
     

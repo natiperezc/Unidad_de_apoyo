@@ -1,5 +1,5 @@
 ---
-date: "2020-08-05T00:00:00Z"
+date: "2020-06-28T00:00:00Z"
 external_link: https://rpubs.com/ncperezc/Teoria_Regresion_lineal_simple
 image:
   caption: 
@@ -8,5 +8,5 @@ summary: "Guia para el plantamiento y ajuste de modelos lineales: explicación y
 tags:
 - Modelos
 - Regresión lineal
-title: Ajuste de modelos lineales v2
+title: Ajuste de modelos lineales
 ---
