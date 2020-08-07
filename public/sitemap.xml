@@ -173,11 +173,6 @@
   </url>
   
   <url>
-    <loc>/tags/viernes/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/viernes-de-codigo/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
@@ -285,6 +280,21 @@
   <url>
     <loc>/authors/luis-daniel-avila-cabadilla/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recursos/ajuste-modelos-no-lineales/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recursos/analisis-multivariado/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recursos/diagnostico-de-datos/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -833,11 +843,6 @@
   </url>
   
   <url>
-    <loc>/tags/2ndfor/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/francisco/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -854,26 +859,6 @@
   
   <url>
     <loc>/ligas/nathalia/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/recursos/ajuste-modelos-no-lineales/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/red-mexlter/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/recursos/diagnostico-de-datos/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/recursos/analisis-multivariado/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   

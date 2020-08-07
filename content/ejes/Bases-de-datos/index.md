@@ -36,6 +36,6 @@ En particular, proveemos apoyo en:
 + **Desarrollo de repositorios de datos.**
 
 Para solicitar apoyo en relación a la gestión de bases de datos por favor envía una solicitud por
-[correo electrónico](/contact/).
+[correo electrónico](/home/contact/).
 
   </div>
