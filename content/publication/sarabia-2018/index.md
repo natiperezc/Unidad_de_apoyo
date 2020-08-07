@@ -4,7 +4,7 @@ authors:
 - Marcela Sarabia
 - Saila Cazares
 - Antonio González-Rodríguez
-- admin
+- Francisco Mora
 - Yazmín Carreón-Abud
 - John Larsen
 date: "2018-06-01T00:00:00Z"
@@ -20,7 +20,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-06-01T00:00:00Z"
-slides: example
+slides: 
 summary: Main results showed that yeasts were present in all maize fields during the complete growing cycle, though highest during flowering. The abundance of rhizosphere yeasts responded negatively to soil pH and amount of Mg. 
 tags:
 - Plant growth
@@ -30,7 +30,7 @@ categories:
 title: Plant growth promotion traits of rhizosphere yeasts and their response to soil characteristics and crop cycle in maize agroecosystems
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S2452219818300259
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

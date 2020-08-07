@@ -1,8 +1,8 @@
 ---
 abstract: 
 authors:
-- Ana Maria Flores-Gutierreza
-- admin 
+- Ana Maria Flores-Gutierrez
+- Francisco Mora 
 - Luis Daniel Avila-Cabadilla
 - Karina Boege 
 - Ek del-Val 
@@ -20,7 +20,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-#slides: example
+slides: 
 summary: El manejo intensivo tiene un impacto negativo en la produccion de papaya y sus enemigos naturales.
 tags:
 - management
@@ -29,7 +29,7 @@ categories:
 title: Assessing the cascading effects of management and landscape on the arthropod guilds occurring in papaya plantations
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167880920300219
+url_pdf: 
 url_poster: ""
 url_project: ""
 #url_slides: ""

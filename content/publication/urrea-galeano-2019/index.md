@@ -4,7 +4,7 @@ authors:
 - Lina Adonay Urrea-Galeano
 - Ellen Andresen
 - Rosamond Coates
-- admin
+- Francisco Mora
 - Alfonso Dí́az Rojas
 - Gabriel Ramos-Ferná́nde
 date: "2015-09-01T00:00:00Z"
@@ -20,7 +20,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-#slides: example
+slides: 
 summary: 
 tags:
 - 

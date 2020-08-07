@@ -22,7 +22,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-05-25T00:00:00Z"
-#slides: example
+slides:
 summary: 
 tags:
 - spatial analysis
@@ -32,7 +32,7 @@ categories:
 title: "Unraveling households’ natural resource management strategies: a case study in Jalisco, Mexico"
 url_code: ""
 url_dataset: ""
-url_pdf: "https://www.tandfonline.com/doi/full/10.1080/26395916.2020.1767213"
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

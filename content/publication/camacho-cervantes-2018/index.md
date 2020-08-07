@@ -18,7 +18,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-02-14T00:00:00Z"
-#slides: example
+slides: 
 summary: 
 tags:
 - 
@@ -27,7 +27,7 @@ categories:
 title: Sociability between invasive guppies and native topminnows
 url_code: ""
 url_dataset: ""
-url_pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192539"
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

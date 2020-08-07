@@ -19,7 +19,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2016-11-24T00:00:00Z"
-#slides: example
+slides: 
 summary: 
 tags:
 - Human disturbance

@@ -1,6 +1,6 @@
 ---
 title: "Licenciatura"
-date: "2020-03-27T00:00:00Z"
+date: "2018-03-27T00:00:00Z"
 external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

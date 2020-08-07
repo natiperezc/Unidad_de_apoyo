@@ -3,7 +3,7 @@ authors:
 - admin
 avatar_image: LogoUnidad_ED_color.png
 bio: Brindamos apoyo a la comunidad del IIES en el análisis de datos y la modelación estadística.
-btn:
+#btn:
 #- label: Download Resume
 #  url: https://sourcethemes.com/academic/docs/install/
 display_education: false

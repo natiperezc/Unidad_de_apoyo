@@ -18,7 +18,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-10-08T00:00:00Z"
-#slides: example
+slides: 
 summary: 
 tags:
 - Pest
@@ -35,7 +35,7 @@ url_source: ""
 url_video: ""
 ---
 
-BACKGROUND: Honey bees are associated with gut microorganisms essential for their nutrition and health. The composition of the microbial community can be used as a biological health indicator and is characterized using biomarker fatty acids. Commonly, gut microorganisms are exposed to pathogens and to an array of chemical and biological pest control methods. 
+Honey bees are associated with gut microorganisms essential for their nutrition and health. The composition of the microbial community can be used as a biological health indicator and is characterized using biomarker fatty acids. Commonly, gut microorganisms are exposed to pathogens and to an array of chemical and biological pest control methods. 
 RESULTS: We found a strong negative effect on microbial gut community composition when exposed to the bee pest control chemicals oxytetracycline, oxalic acid and imidacloprid, and when inoculated with the bee pest Nosema spp. and the potential bee pest biocontrol agent Lactobacillus plantarum. Results from the in vitro test with bee pest chemicals showed a differential response of Lactobacillus spp. At the community level, sometaxonomicgroupsweremoreaffecteddependingon treatment, but sharp changes in the microbial structure were caused by compounds generally considered as bee safe. 
 CONCLUSION: Our results show that pests such as Nosema spp. and pest control methods alter the composition of bee gut microorganisms, which may have severe consequences for pathogen defense, physiology and general honey bee health. In addition, L. plantarum has potential as a biocontrol agent against Nosema spp.
 

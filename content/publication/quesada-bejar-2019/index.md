@@ -18,7 +18,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-12-31T00:00:00Z"
-#slides: example
+slides: 
 summary: 
 tags:
 - 
@@ -27,7 +27,7 @@ categories:
 title: "Susceptibility of Sphenarium purpurascens purpurascens (Orthoptera: Pyrgomorphidae) instars to a commercial strain of Metarhizium acridum (Hypocreales: Clavicipitaceae) in Michoacan, Mexico"
 url_code: ""
 url_dataset: ""
-url_pdf: "http://entornogeografico.univalle.edu.co/index.php/SOCOLEN/article/view/7959"
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

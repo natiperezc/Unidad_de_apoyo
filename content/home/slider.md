@@ -11,7 +11,7 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "250px"
+height = "260px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -36,6 +36,20 @@ height = "250px"
 
 [[item]]
   title = ""
+  content = "¡Proximo curso de posgrado! Modelación para la sostenibilidad con el enfoque de sistemas complejos"
+  align = "right"
+
+  overlay_color = "#404040"  # An HTML color value.
+  overlay_img = "redes.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+
+  cta_label = "Ver aquí"
+  cta_url = "https://sostenibilidad.posgrado.unam.mx/cursos/modelacion-para-la-sostenibilidad-con-el-enfoque-de-sistemas-complejos_en-linea/"
+  cta_icon_pack = "fas"
+  cta_icon = "spa"
+
+[[item]]
+  title = ""
   content = "Nuevo sitio del *VieRnes de código*, un espacio de discusión y solución de dudas de código en R"
   align = "left"
 
@@ -48,7 +62,7 @@ height = "250px"
 
 [[item]]
   title = ""
-  content = "Última Publicación: Economic valuation of ecosystem services from secondary tropical forests: trade-offs and implications for policy making."
+  content = "Última Publicación: Economic valuation of ecosystem services from secondary tropical forests: trade-offs and implications for policy making"
   align = "right"
 
   overlay_color = "#404040"  # An HTML color value.
@@ -57,4 +71,5 @@ height = "250px"
 
   cta_label = "Ver aquí"
   cta_url = "https://www.sciencedirect.com/science/article/pii/S037811272031063X"
+
 +++

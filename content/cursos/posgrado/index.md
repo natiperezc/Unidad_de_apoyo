@@ -46,4 +46,10 @@ para aplicarlos en casos de estudio
 
  [<span style="color:blue">Puedes consultar el programa del curso aquí</span>](http://pcbiol.posgrado.unam.mx/programas_cursos/2018-2/introduccion_al_estudio_de_los_metodos_multivariados.pdf)
 
+###  4. Modelación para la sostenibilidad con el enfoque de sistemas complejos
+
+Esta asignatura es impartida a los alumnos del posgrado de ciencias de la sostenibilidad. El estudiante conocerá y practicará con un conjunto de herramientas de simulación numérica que abordan aspectos fundamentales de los sistemas complejos, y aprenderá cómo se vinculan con el tema de la sostenibilidad.
+
+ [<span style="color:blue">Puedes consultar la información del curso aquí</span>](https://sostenibilidad.posgrado.unam.mx/cursos/modelacion-para-la-sostenibilidad-con-el-enfoque-de-sistemas-complejos_en-linea/)
+
 </center>

@@ -23,6 +23,26 @@
   </url>
   
   <url>
+    <loc>/cursos/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/escuela-de-metodos/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cursos/escuela-de-metodos/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/recursos/ajuste-de-modelos-lineales/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url>
@@ -44,11 +64,6 @@
   
   <url>
     <loc>/tags/regresion-lineal/</loc>
-    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,11 +158,6 @@
   </url>
   
   <url>
-    <loc>/tags/escuela-de-metodos/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/ligas/escuela-de-metodos/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
@@ -175,16 +185,6 @@
   <url>
     <loc>/integrantes/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cursos/</loc>
-    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cursos/escuela-de-metodos/</loc>
-    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -233,7 +233,7 @@
   </url>
   
   <url>
-    <loc>/authors/ana-maria-flores-gutierreza/</loc>
+    <loc>/authors/ana-maria-flores-gutierrez/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -275,16 +275,6 @@
   <url>
     <loc>/tags/tecnico-de-proyecto/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/licenciatura/</loc>
-    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cursos/licenciatura/</loc>
-    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -653,6 +643,16 @@
   </url>
   
   <url>
+    <loc>/tags/licenciatura/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cursos/licenciatura/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/alfredo-f.-ojanguren/</loc>
     <lastmod>2018-02-14T00:00:00+00:00</lastmod>
   </url>
@@ -935,10 +935,6 @@
   
   <url>
     <loc>/tags/metadatos/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/nathalia-perez/</loc>
   </url>
   
   <url>

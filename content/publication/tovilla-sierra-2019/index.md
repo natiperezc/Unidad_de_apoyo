@@ -18,8 +18,8 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-10-22T00:00:00Z"
-#slides: example
-summary: 
+slides: 
+summary:
 tags:
 - spatial analysis
 categories: 
@@ -27,7 +27,7 @@ categories:
 title: "The spatial analysis of biological interactions: morphological variation responding to the co‐occurrence of competitors and resources"
 url_code: ""
 url_dataset: ""
-url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/jav.02223"
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

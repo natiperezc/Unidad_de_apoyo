@@ -16,7 +16,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-12-13T00:00:00Z"
-slides: example
+slides: 
 summary: 
 tags:
 - successional
@@ -26,7 +26,7 @@ categories:
 title: Resilience of soil aggregation and exocellular enzymatic functions associated with arbuscular mycorrhizal fungal communities along a successional gradient in a tropical dry forest
 url_code: ""
 url_dataset: ""
-url_pdf: "https://link.springer.com/article/10.1007/s00572-019-00928-9?shared-article-renderer"
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""
