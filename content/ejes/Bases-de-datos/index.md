@@ -7,7 +7,7 @@ image:
   preview_only: true
 links:
 #  url: https://twitter.com/georgecushen
-#slides: example
+slides: 
 summary: Capacitación para el manejo y gestión de bases de datos
 tags:
 - Bases de datos
@@ -36,6 +36,6 @@ En particular, proveemos apoyo en:
 + **Desarrollo de repositorios de datos.**
 
 Para solicitar apoyo en relación a la gestión de bases de datos por favor envía una solicitud por
-[correo electrónico](/home/contact/).
+[correo electrónico](/#contact).
 
   </div>
