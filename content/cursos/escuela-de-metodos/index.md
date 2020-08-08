@@ -23,3 +23,29 @@ Producción de materiales didácticos sobre los métodos presentados en los tall
  [<span style="color:blue">Visitanos en nuestro sitio web</span>](https://www.facebook.com/escuelademetodosunam/)
  ![](escuela.jpg)
 
+Los cursos de las ediciones pasadas son: 
+
+### 2017:
+ + Introducción al lenguaje R
+ + Análisis de redes complejas aplicadas a la ecología usando R
+ + Herramientas para el análisis cualitativo en las ciencias sociales
+ + Análisis de dependencia y autocorrelación espacial
+
+### 2018
+ + Lenguaje R: Nociones básicas para el manejo de bases de datos.
+ + Introducción al diseño y manejo de bases de datos: una aproximación desde MySQL y R.
+ + Modelos lineales generalizados en R
+ + Modelos no lineales en R
+ + Modelos lineales mixtos y generalizados para ecólogos
+
+### 2019
+ + Visualización y gestión de datos y generación de reportes con Tidyverse y RMarkdown
+
+### 2020
+ + Introducción al lenguaje R.
+ + Foto-trampeo en R: Organización y análisis de datos
+ + Herramientas para el análisis longitudinal en Ciencias Sociales
+ + Introducción a SIG con QGIS 2020
+
+
+
